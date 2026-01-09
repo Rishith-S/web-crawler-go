@@ -36,16 +36,16 @@
          ├──────────┬─────────────┐         │
          │          │             │         │
          ▼          ▼             ▼         │
-┌─────────────┐ ┌─────────┐ ┌──────────┐   │
-│    Queue    │ │ Crawled │ │result.txt│   │
-│             │ │   Set   │ │          │   │
-│ • URLs to   │ │         │ │ • title  │   │
-│   crawl     │ │ • hashed│ │ • URL    │   │
-│ • thread-   │ │   URLs  │ └──────────┘   │
-│   safe      │ │ • thread│                │
-│ • mutex     │ │   safe  │                │
-│   locked    │ │ • mutex │                │
-└─────┬───────┘ └─────────┘                │
+┌─────────────┐ ┌─────────┐ ┌──────────┐    │
+│    Queue    │ │ Crawled │ │result.txt│    │
+│             │ │   Set   │ │          │    │
+│ • URLs to   │ │         │ │ • title  │    │
+│   crawl     │ │ • hashed│ │ • URL    │    │
+│ • thread-   │ │   URLs  │ └──────────┘    │
+│   safe      │ │ • thread│                 │
+│ • mutex     │ │   safe  │                 │
+│   locked    │ │ • mutex │                 │
+└─────┬───────┘ └─────────┘                 │
       │                                     │
       └─────────────────────────────────────┘
            dequeue(url) - loop continues
