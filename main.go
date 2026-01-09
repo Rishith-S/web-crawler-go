@@ -257,6 +257,8 @@ func main() {
 		}
 	}
 
+	wg.Wait()
+
 	ticker.Stop()
 	done <- true
 
