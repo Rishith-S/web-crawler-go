@@ -93,6 +93,22 @@ func (c *CrawledSet) size() int {
 	return c.number
 }
 
+type QueuedSet struct {
+	data map[uint64]bool
+	mu   sync.Mutex
+}
+
+func (q *QueuedSet) addIfAbsent(url string) bool {
+	q.mu.Lock()
+	defer q.mu.Unlock()
+	h := hashUrl(url)
+	if q.data[h] {
+		return false
+	}
+	q.data[h] = true
+	return true
+}
+
 func robotsTxtFetcher() {
 	client := &http.Client{
 		Timeout: 8 * time.Second,
@@ -185,7 +201,7 @@ func fetcher(url string, c chan *goquery.Document) {
 	c <- nil
 }
 
-func parser(doc *goquery.Document, queue *Queue, currUrl string, crawledSet *CrawledSet) {
+func parser(doc *goquery.Document, queue *Queue, currUrl string, crawledSet *CrawledSet, queuedSet *QueuedSet) {
 
 	doc.Find("a[href]").Each(func(_ int, s *goquery.Selection) {
 		href, exists := s.Attr("href")
@@ -201,7 +217,9 @@ func parser(doc *goquery.Document, queue *Queue, currUrl string, crawledSet *Cra
 			}
 
 			if strings.HasPrefix(href, host) && isAllowed(href) && !crawledSet.contains(href) {
-				queue.enqueue(href)
+				if queuedSet.addIfAbsent(href) {
+					queue.enqueue(href)
+				}
 			}
 		}
 	})
@@ -218,13 +236,15 @@ func main() {
 	queue := Queue{totalQueued: 0, number: 0, elements: make([]string, 0)}
 	robotsTxtFetcher()
 	crawled := CrawledSet{data: make(map[uint64]bool)}
+	queued := QueuedSet{data: make(map[uint64]bool)}
+	queued.addIfAbsent(host)
 
 	crawled.add(host)
 	c := make(chan *goquery.Document)
 	go fetcher(host, c)
 	content := <-c
 	if content != nil {
-		parser(content, &queue, host, &crawled)
+		parser(content, &queue, host, &crawled, &queued)
 	}
 
 	ticker := time.NewTicker(1 * time.Second)
@@ -242,21 +262,27 @@ func main() {
 		}
 	}()
 
-	for queue.size() > 0 && crawled.size() < 500 {
+	for crawled.size() < 500 {
+		if queue.size() == 0 {
+			wg.Wait()
+			if queue.size() == 0 {
+				break
+			}
+			continue
+		}
 		url := queue.dequeue()
-		crawled.add(url)
 		fetchChan := make(chan *goquery.Document)
 		go fetcher(url, fetchChan)
 		content := <-fetchChan
 		if content != nil {
+			crawled.add(url)
 			wg.Add(1)
 			go func(doc *goquery.Document, url string) {
 				defer wg.Done()
-				parser(doc, &queue, url, &crawled)
+				parser(doc, &queue, url, &crawled, &queued)
 			}(content, url)
 		}
 	}
-
 	wg.Wait()
 
 	ticker.Stop()

@@ -11,9 +11,6 @@
 	title: Give to SJSU: Helping A Student Starts With You | Give to SJSU,
 	url: https://www.sjsu.edu/giving/
 }{
-	title: Visit,
-	url: https://www.sjsu.edu/visit/index.php
-}{
 	title: Campus Tours | Student Outreach and Recruitment,
 	url: https://www.sjsu.edu/soar/campus-tours/index.php
 }{
@@ -34,9 +31,6 @@
 }{
 	title: Class Schedule | Class Schedules,
 	url: https://www.sjsu.edu/classes/index.php
-}{
-	title: Admissions,
-	url: https://www.sjsu.edu/admissions/index.php
 }{
 	title: Tuition and Fees,
 	url: https://www.sjsu.edu/tuition-and-fees/index.php
@@ -119,20 +113,11 @@
 	title: Alumni Association,
 	url: https://www.sjsu.edu/alumni/index.php
 }{
-	title: Give to SJSU: Helping A Student Starts With You | Give to SJSU,
-	url: https://www.sjsu.edu/giving/
-}{
 	title: SJSU Search,
 	url: https://www.sjsu.edu/search/index.html
 }{
 	title: San José State University,
 	url: https://www.sjsu.edu/index.php
-}{
-	title: Visit,
-	url: https://www.sjsu.edu/visit/index.php
-}{
-	title: Campus Tours | Student Outreach and Recruitment,
-	url: https://www.sjsu.edu/soar/campus-tours/index.php
 }{
 	title: San Jose State University,
 	url: https://www.sjsu.edu/map
@@ -143,101 +128,8 @@
 	title: Silicon Valley | Visit,
 	url: https://www.sjsu.edu/visit/silicon-valley.php
 }{
-	title: SJSU Loves SJ: Connecting Our Communities,
-	url: https://www.sjsu.edu/sjsulovessj/
-}{
-	title: Academics,
-	url: https://www.sjsu.edu/academics/index.php
-}{
-	title: Colleges and Departments | Academics,
-	url: https://www.sjsu.edu/academics/colleges-and-departments.php
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: Class Schedule | Class Schedules,
-	url: https://www.sjsu.edu/classes/index.php
-}{
-	title: Admissions,
-	url: https://www.sjsu.edu/admissions/index.php
-}{
-	title: Tuition and Fees,
-	url: https://www.sjsu.edu/tuition-and-fees/index.php
-}{
-	title: Housing,
-	url: https://www.sjsu.edu/housing-options/index.php
-}{
-	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
-	url: https://www.sjsu.edu/professional/
-}{
-	title: International Recruitment - San Jose State University,
-	url: https://www.sjsu.edu/global/
-}{
-	title: Parent and Family Programs,
-	url: https://www.sjsu.edu/parent-and-family-programs/index.php
-}{
-	title: Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/index.php
-}{
-	title: Health and Wellness | Campus Life,
-	url: https://www.sjsu.edu/campus-life/health-and-wellness.php
-}{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/
-}{
-	title: Events | Campus Life,
-	url: https://www.sjsu.edu/campus-life/events.php
-}{
-	title: Experience Campus | Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/experience-campus/index.php
-}{
-	title: Traditions | Campus Life,
-	url: https://www.sjsu.edu/campus-life/traditions.php
-}{
-	title: Student Alumni Connection | Campus Life,
-	url: https://www.sjsu.edu/campus-life/sac.php
-}{
-	title: Research and Innovation | About,
-	url: https://www.sjsu.edu/about/research/
-}{
-	title: Office of Research,
-	url: https://www.sjsu.edu/research/
-}{
-	title: Office of Innovation & Corporate Partnerships | Office of Innovation,
-	url: https://www.sjsu.edu/innovation/
-}{
-	title: SJSU Research Foundation | Research Foundation,
-	url: https://www.sjsu.edu/researchfoundation/
-}{
-	title: Student-Faculty Collaborations | About,
-	url: https://www.sjsu.edu/about/research/student-faculty-collaborations.php
-}{
-	title: Become a Research Partner | About,
-	url: https://www.sjsu.edu/about/research/become-a-research-partner.php
-}{
-	title: Campus Centers and Institutes | Office of Research,
-	url: https://www.sjsu.edu/research/about/cci/index.php
-}{
 	title: SJSU Online,
 	url: https://www.sjsu.edu/online/index.php?utm_source=sjsumainmenu-mobile&utm_medium=web&utm_campaign=sjsuonline-navmenu-traffic
-}{
-	title: About SJSU | About,
-	url: https://www.sjsu.edu/about/index.php
-}{
-	title: Administration and Leadership | About,
-	url: https://www.sjsu.edu/about/administration-and-leadership.php
-}{
-	title: Facts and Accomplishments,
-	url: https://www.sjsu.edu/facts-and-accomplishments/index.php
-}{
-	title: Partnerships | About,
-	url: https://www.sjsu.edu/about/partnerships.php
-}{
-	title: Transformation 2030,
-	url: https://www.sjsu.edu/strategicplan/
-}{
-	title: Transformation Defined | SJSU — Transformation Defined,
-	url: https://www.sjsu.edu/transform/
 }{
 	title: About SJSU | About,
 	url: https://www.sjsu.edu/about/
@@ -305,14 +197,8 @@
 	title: A to Z Site Index,
 	url: https://www.sjsu.edu/siteindex
 }{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/
-}{
 	title: Clery Act Compliance,
 	url: https://www.sjsu.edu/clery/
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
 }{
 	title: University Personnel,
 	url: https://www.sjsu.edu/up/index.php
@@ -332,68 +218,11 @@
 	title: Make A Report | Office for Title IX and Equal Opportunity,
 	url: https://www.sjsu.edu/titleixeo/make-a-report/index.php
 }{
-	title: Campus Tours | Student Outreach and Recruitment,
-	url: https://www.sjsu.edu/soar/campus-tours/index.php
-}{
-	title: Visit,
-	url: https://www.sjsu.edu/visit/index.php#downtown
-}{
-	title: SJSU Loves SJ: Connecting Our Communities,
-	url: https://www.sjsu.edu/sjsulovessj/
-}{
-	title: Academics,
-	url: https://www.sjsu.edu/academics/index.php
-}{
-	title: Colleges and Departments | Academics,
-	url: https://www.sjsu.edu/academics/colleges-and-departments.php
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: Class Schedule | Class Schedules,
-	url: https://www.sjsu.edu/classes/index.php
-}{
-	title: Admissions,
-	url: https://www.sjsu.edu/admissions/index.php
-}{
-	title: Tuition and Fees,
-	url: https://www.sjsu.edu/tuition-and-fees/index.php
-}{
-	title: Housing,
-	url: https://www.sjsu.edu/housing-options/index.php
-}{
 	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
 	url: https://www.sjsu.edu/professional/index.php
 }{
 	title: International Recruitment - San Jose State University,
 	url: https://www.sjsu.edu/global/index.php
-}{
-	title: Parent and Family Programs,
-	url: https://www.sjsu.edu/parent-and-family-programs/index.php
-}{
-	title: Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/index.php
-}{
-	title: Health and Wellness | Campus Life,
-	url: https://www.sjsu.edu/campus-life/health-and-wellness.php
-}{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/
-}{
-	title: Events | Campus Life,
-	url: https://www.sjsu.edu/campus-life/events.php
-}{
-	title: Experience Campus | Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/experience-campus/index.php
-}{
-	title: Traditions | Campus Life,
-	url: https://www.sjsu.edu/campus-life/traditions.php
-}{
-	title: Student Alumni Connection | Campus Life,
-	url: https://www.sjsu.edu/campus-life/sac.php
-}{
-	title: Research and Innovation | About,
-	url: https://www.sjsu.edu/about/research/
 }{
 	title: Office of Research,
 	url: https://www.sjsu.edu/research/index.php
@@ -403,27 +232,6 @@
 }{
 	title: SJSU Research Foundation | Research Foundation,
 	url: https://www.sjsu.edu/researchfoundation/index.php
-}{
-	title: Student-Faculty Collaborations | About,
-	url: https://www.sjsu.edu/about/research/student-faculty-collaborations.php
-}{
-	title: Become a Research Partner | About,
-	url: https://www.sjsu.edu/about/research/become-a-research-partner.php
-}{
-	title: Campus Centers and Institutes | Office of Research,
-	url: https://www.sjsu.edu/research/about/cci/index.php
-}{
-	title: About SJSU | About,
-	url: https://www.sjsu.edu/about/index.php
-}{
-	title: Administration and Leadership | About,
-	url: https://www.sjsu.edu/about/administration-and-leadership.php
-}{
-	title: Facts and Accomplishments,
-	url: https://www.sjsu.edu/facts-and-accomplishments/index.php
-}{
-	title: Partnerships | About,
-	url: https://www.sjsu.edu/about/partnerships.php
 }{
 	title: Transformation 2030,
 	url: https://www.sjsu.edu/strategicplan/index.php
@@ -431,20 +239,8 @@
 	title: Transformation Defined | SJSU — Transformation Defined,
 	url: https://www.sjsu.edu/transform/index.php
 }{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/index.php?utm_source=sjsumainmenu&utm_medium=web&utm_campaign=sjsuonline-navmenu-traffic
-}{
-	title: Alumni Association,
-	url: https://www.sjsu.edu/alumni/index.php
-}{
 	title: Give to SJSU: Helping A Student Starts With You | Give to SJSU,
 	url: https://www.sjsu.edu/giving/index.php
-}{
-	title: SJSU Search,
-	url: https://www.sjsu.edu/search/index.html
-}{
-	title: Campus Tours | Student Outreach and Recruitment,
-	url: https://www.sjsu.edu/soar/campus-tours/index.php
 }{
 	title: Campus Map | Main Campus,
 	url: https://www.sjsu.edu/map/index.php
@@ -452,131 +248,17 @@
 	title: Parking Services,
 	url: https://www.sjsu.edu/parking/index.php
 }{
-	title: Silicon Valley | Visit,
-	url: https://www.sjsu.edu/visit/silicon-valley.php
-}{
 	title: SJSU Loves SJ: Connecting Our Communities,
 	url: https://www.sjsu.edu/sjsulovessj/index.php
-}{
-	title: Academics,
-	url: https://www.sjsu.edu/academics/index.php
-}{
-	title: Colleges and Departments | Academics,
-	url: https://www.sjsu.edu/academics/colleges-and-departments.php
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: Class Schedule | Class Schedules,
-	url: https://www.sjsu.edu/classes/index.php
-}{
-	title: Admissions,
-	url: https://www.sjsu.edu/admissions/index.php
-}{
-	title: Tuition and Fees,
-	url: https://www.sjsu.edu/tuition-and-fees/index.php
-}{
-	title: Housing,
-	url: https://www.sjsu.edu/housing-options/index.php
-}{
-	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
-	url: https://www.sjsu.edu/professional/index.php
-}{
-	title: International Recruitment - San Jose State University,
-	url: https://www.sjsu.edu/global/index.php
-}{
-	title: Parent and Family Programs,
-	url: https://www.sjsu.edu/parent-and-family-programs/index.php
-}{
-	title: Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/index.php
-}{
-	title: Health and Wellness | Campus Life,
-	url: https://www.sjsu.edu/campus-life/health-and-wellness.php
 }{
 	title: SJSU Cares,
 	url: https://www.sjsu.edu/sjsucares/index.php
 }{
-	title: Events | Campus Life,
-	url: https://www.sjsu.edu/campus-life/events.php
-}{
-	title: Experience Campus | Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/experience-campus/index.php
-}{
-	title: Traditions | Campus Life,
-	url: https://www.sjsu.edu/campus-life/traditions.php
-}{
-	title: Student Alumni Connection | Campus Life,
-	url: https://www.sjsu.edu/campus-life/sac.php
-}{
-	title: Research and Innovation | About,
-	url: https://www.sjsu.edu/about/research/
-}{
-	title: Office of Research,
-	url: https://www.sjsu.edu/research/index.php
-}{
-	title: Office of Innovation & Corporate Partnerships | Office of Innovation,
-	url: https://www.sjsu.edu/innovation/index.php
-}{
-	title: SJSU Research Foundation | Research Foundation,
-	url: https://www.sjsu.edu/researchfoundation/index.php
-}{
-	title: Student-Faculty Collaborations | About,
-	url: https://www.sjsu.edu/about/research/student-faculty-collaborations.php
-}{
-	title: Become a Research Partner | About,
-	url: https://www.sjsu.edu/about/research/become-a-research-partner.php
-}{
-	title: Campus Centers and Institutes | Office of Research,
-	url: https://www.sjsu.edu/research/about/cci/index.php
-}{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/index.php?utm_source=sjsumainmenu-mobile&utm_medium=web&utm_campaign=sjsuonline-navmenu-traffic
-}{
-	title: About SJSU | About,
-	url: https://www.sjsu.edu/about/index.php
-}{
-	title: Administration and Leadership | About,
-	url: https://www.sjsu.edu/about/administration-and-leadership.php
-}{
-	title: Facts and Accomplishments,
-	url: https://www.sjsu.edu/facts-and-accomplishments/index.php
-}{
-	title: Partnerships | About,
-	url: https://www.sjsu.edu/about/partnerships.php
-}{
-	title: Transformation 2030,
-	url: https://www.sjsu.edu/strategicplan/
-}{
-	title: Transformation Defined | SJSU — Transformation Defined,
-	url: https://www.sjsu.edu/transform/
-}{
-	title: Parking Services,
-	url: https://www.sjsu.edu/parking/
-}{
 	title: South Campus Shuttle Service | Parking Services,
 	url: https://www.sjsu.edu/parking/help/shuttle.php
 }{
-	title: SJSU Loves SJ: Connecting Our Communities,
-	url: https://www.sjsu.edu/sjsulovessj/
-}{
 	title: SmartPass Overview | Associated Students,
 	url: https://www.sjsu.edu/as/departments/transportation-solutions/smartpass-overview/index.php
-}{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/index.php
-}{
-	title: Accessibility at SJSU,
-	url: https://www.sjsu.edu/accessibility/index.php
-}{
-	title: Accreditation | Academic Innovation and Institutional Effectiveness,
-	url: https://www.sjsu.edu/aiie/accreditation/index.php
-}{
-	title: Office for Title IX and Equal Opportunity,
-	url: https://www.sjsu.edu/titleixeo/index.php
-}{
-	title: Diversity,
-	url: https://www.sjsu.edu/diversity/index.php
 }{
 	title: Muwekma Ohlone SJSU Area Land Acknowledgement | Diversity,
 	url: https://www.sjsu.edu/diversity/land-acknowledgement/index.php
@@ -584,281 +266,8 @@
 	title: Privacy Notice,
 	url: https://www.sjsu.edu/privacy/index.php
 }{
-	title: Lucas College and Graduate School of Business,
-	url: https://www.sjsu.edu/cob/index.php
-}{
-	title: Connie L. Lurie College of Education,
-	url: https://www.sjsu.edu/education/index.php
-}{
-	title: Charles W. Davidson College of Engineering,
-	url: https://www.sjsu.edu/engineering/index.php
-}{
-	title: College of Graduate Studies,
-	url: https://www.sjsu.edu/cgs/index.php
-}{
-	title: College of Health and Human Sciences,
-	url: https://www.sjsu.edu/chhs/index.php
-}{
-	title: College of Information, Data and Society,
-	url: https://www.sjsu.edu/information-data-society/index.php
-}{
-	title: College of Humanities and the Arts,
-	url: https://www.sjsu.edu/humanitiesandarts/index.php
-}{
-	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
-	url: https://www.sjsu.edu/professional/index.php
-}{
-	title: College of Science,
-	url: https://www.sjsu.edu/science/index.php
-}{
-	title: College of Social Sciences,
-	url: https://www.sjsu.edu/socialsciences/index.php
-}{
-	title: A to Z Site Index,
-	url: https://www.sjsu.edu/siteindex
-}{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/
-}{
-	title: Clery Act Compliance,
-	url: https://www.sjsu.edu/clery/
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: University Personnel,
-	url: https://www.sjsu.edu/up/index.php
-}{
-	title: Freedom of Speech | Office of the President,
-	url: https://www.sjsu.edu/president/priorities-and-initiatives/free-speech/index.php
-}{
-	title: Well-being @ SJSU,
-	url: https://www.sjsu.edu/wellbeing/index.php
-}{
-	title: Doing Business with SJSU | About,
-	url: https://www.sjsu.edu/about/doing-business-with-sjsu.php
-}{
 	title: Emergency Information,
 	url: https://www.sjsu.edu/emergency/index.php
-}{
-	title: Make A Report | Office for Title IX and Equal Opportunity,
-	url: https://www.sjsu.edu/titleixeo/make-a-report/index.php
-}{
-	title: Campus Tours | Student Outreach and Recruitment,
-	url: https://www.sjsu.edu/soar/campus-tours/index.php
-}{
-	title: Visit,
-	url: https://www.sjsu.edu/visit/index.php#downtown
-}{
-	title: SJSU Loves SJ: Connecting Our Communities,
-	url: https://www.sjsu.edu/sjsulovessj/
-}{
-	title: Academics,
-	url: https://www.sjsu.edu/academics/index.php
-}{
-	title: Colleges and Departments | Academics,
-	url: https://www.sjsu.edu/academics/colleges-and-departments.php
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: Class Schedule | Class Schedules,
-	url: https://www.sjsu.edu/classes/index.php
-}{
-	title: Tuition and Fees,
-	url: https://www.sjsu.edu/tuition-and-fees/index.php
-}{
-	title: Housing,
-	url: https://www.sjsu.edu/housing-options/index.php
-}{
-	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
-	url: https://www.sjsu.edu/professional/index.php
-}{
-	title: International Recruitment - San Jose State University,
-	url: https://www.sjsu.edu/global/index.php
-}{
-	title: Parent and Family Programs,
-	url: https://www.sjsu.edu/parent-and-family-programs/index.php
-}{
-	title: Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/index.php
-}{
-	title: Health and Wellness | Campus Life,
-	url: https://www.sjsu.edu/campus-life/health-and-wellness.php
-}{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/
-}{
-	title: Events | Campus Life,
-	url: https://www.sjsu.edu/campus-life/events.php
-}{
-	title: Experience Campus | Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/experience-campus/index.php
-}{
-	title: Traditions | Campus Life,
-	url: https://www.sjsu.edu/campus-life/traditions.php
-}{
-	title: Student Alumni Connection | Campus Life,
-	url: https://www.sjsu.edu/campus-life/sac.php
-}{
-	title: Research and Innovation | About,
-	url: https://www.sjsu.edu/about/research/
-}{
-	title: Office of Research,
-	url: https://www.sjsu.edu/research/index.php
-}{
-	title: Office of Innovation & Corporate Partnerships | Office of Innovation,
-	url: https://www.sjsu.edu/innovation/index.php
-}{
-	title: SJSU Research Foundation | Research Foundation,
-	url: https://www.sjsu.edu/researchfoundation/index.php
-}{
-	title: Student-Faculty Collaborations | About,
-	url: https://www.sjsu.edu/about/research/student-faculty-collaborations.php
-}{
-	title: Become a Research Partner | About,
-	url: https://www.sjsu.edu/about/research/become-a-research-partner.php
-}{
-	title: Campus Centers and Institutes | Office of Research,
-	url: https://www.sjsu.edu/research/about/cci/index.php
-}{
-	title: About SJSU | About,
-	url: https://www.sjsu.edu/about/index.php
-}{
-	title: Administration and Leadership | About,
-	url: https://www.sjsu.edu/about/administration-and-leadership.php
-}{
-	title: Facts and Accomplishments,
-	url: https://www.sjsu.edu/facts-and-accomplishments/index.php
-}{
-	title: Partnerships | About,
-	url: https://www.sjsu.edu/about/partnerships.php
-}{
-	title: Transformation 2030,
-	url: https://www.sjsu.edu/strategicplan/index.php
-}{
-	title: Transformation Defined | SJSU — Transformation Defined,
-	url: https://www.sjsu.edu/transform/index.php
-}{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/index.php?utm_source=sjsumainmenu&utm_medium=web&utm_campaign=sjsuonline-navmenu-traffic
-}{
-	title: Alumni Association,
-	url: https://www.sjsu.edu/alumni/index.php
-}{
-	title: Give to SJSU: Helping A Student Starts With You | Give to SJSU,
-	url: https://www.sjsu.edu/giving/index.php
-}{
-	title: SJSU Search,
-	url: https://www.sjsu.edu/search/index.html
-}{
-	title: Campus Tours | Student Outreach and Recruitment,
-	url: https://www.sjsu.edu/soar/campus-tours/index.php
-}{
-	title: Campus Map | Main Campus,
-	url: https://www.sjsu.edu/map/index.php
-}{
-	title: Parking Services,
-	url: https://www.sjsu.edu/parking/index.php
-}{
-	title: Silicon Valley | Visit,
-	url: https://www.sjsu.edu/visit/silicon-valley.php
-}{
-	title: SJSU Loves SJ: Connecting Our Communities,
-	url: https://www.sjsu.edu/sjsulovessj/index.php
-}{
-	title: Academics,
-	url: https://www.sjsu.edu/academics/index.php
-}{
-	title: Colleges and Departments | Academics,
-	url: https://www.sjsu.edu/academics/colleges-and-departments.php
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: Class Schedule | Class Schedules,
-	url: https://www.sjsu.edu/classes/index.php
-}{
-	title: Tuition and Fees,
-	url: https://www.sjsu.edu/tuition-and-fees/index.php
-}{
-	title: Housing,
-	url: https://www.sjsu.edu/housing-options/index.php
-}{
-	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
-	url: https://www.sjsu.edu/professional/index.php
-}{
-	title: International Recruitment - San Jose State University,
-	url: https://www.sjsu.edu/global/index.php
-}{
-	title: Parent and Family Programs,
-	url: https://www.sjsu.edu/parent-and-family-programs/index.php
-}{
-	title: Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/index.php
-}{
-	title: Health and Wellness | Campus Life,
-	url: https://www.sjsu.edu/campus-life/health-and-wellness.php
-}{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/index.php
-}{
-	title: Events | Campus Life,
-	url: https://www.sjsu.edu/campus-life/events.php
-}{
-	title: Experience Campus | Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/experience-campus/index.php
-}{
-	title: Traditions | Campus Life,
-	url: https://www.sjsu.edu/campus-life/traditions.php
-}{
-	title: Student Alumni Connection | Campus Life,
-	url: https://www.sjsu.edu/campus-life/sac.php
-}{
-	title: Research and Innovation | About,
-	url: https://www.sjsu.edu/about/research/
-}{
-	title: Office of Research,
-	url: https://www.sjsu.edu/research/index.php
-}{
-	title: Office of Innovation & Corporate Partnerships | Office of Innovation,
-	url: https://www.sjsu.edu/innovation/index.php
-}{
-	title: SJSU Research Foundation | Research Foundation,
-	url: https://www.sjsu.edu/researchfoundation/index.php
-}{
-	title: Student-Faculty Collaborations | About,
-	url: https://www.sjsu.edu/about/research/student-faculty-collaborations.php
-}{
-	title: Become a Research Partner | About,
-	url: https://www.sjsu.edu/about/research/become-a-research-partner.php
-}{
-	title: Campus Centers and Institutes | Office of Research,
-	url: https://www.sjsu.edu/research/about/cci/index.php
-}{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/index.php?utm_source=sjsumainmenu-mobile&utm_medium=web&utm_campaign=sjsuonline-navmenu-traffic
-}{
-	title: About SJSU | About,
-	url: https://www.sjsu.edu/about/index.php
-}{
-	title: Administration and Leadership | About,
-	url: https://www.sjsu.edu/about/administration-and-leadership.php
-}{
-	title: Facts and Accomplishments,
-	url: https://www.sjsu.edu/facts-and-accomplishments/index.php
-}{
-	title: Partnerships | About,
-	url: https://www.sjsu.edu/about/partnerships.php
-}{
-	title: Transformation 2030,
-	url: https://www.sjsu.edu/strategicplan/
-}{
-	title: Transformation Defined | SJSU — Transformation Defined,
-	url: https://www.sjsu.edu/transform/
-}{
-	title: Office of the Provost,
-	url: https://www.sjsu.edu/provost/index.php
 }{
 	title: Office of the Provost,
 	url: https://www.sjsu.edu/provost/index.php
@@ -868,12 +277,6 @@
 }{
 	title: Freshman Admissions | Admissions,
 	url: https://www.sjsu.edu/admissions/freshman/index.php
-}{
-	title: Freshman Admissions | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/index.php
-}{
-	title: Admissions Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/admissions-requirements/index.php
 }{
 	title: Admissions Requirements | Admissions,
 	url: https://www.sjsu.edu/admissions/freshman/admissions-requirements/index.php
@@ -887,9 +290,6 @@
 	title: Want to Apply | Admissions,
 	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/index.php
 }{
-	title: Want to Apply | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/index.php
-}{
 	title: Apply to SJSU  | Admissions,
 	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/apply-to-sjsu/index.php
 }{
@@ -899,17 +299,8 @@
 	title: Success Programs | Admissions,
 	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/index.php
 }{
-	title: Success Programs | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/index.php
-}{
 	title: Dual Enrollment | Admissions,
 	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/index.php
-}{
-	title: Dual Enrollment | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/index.php
-}{
-	title: Step To College (STC) | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/step-to-college-homepage/index.php
 }{
 	title: Step To College (STC) | Admissions,
 	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/step-to-college-homepage/index.php
@@ -930,9 +321,6 @@
 	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/unitrack-homepage/index.php
 }{
 	title: Unitrack Partnerships | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/unitrack-homepage/index.php
-}{
-	title: Unitrack Partnerships | Admissions,
 	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/unitrack-homepage/unitrack-partnerships.php
 }{
 	title: How to Request a Unitrack Partnership | Admissions,
@@ -947,17 +335,11 @@
 	title: Have Applied | Admissions,
 	url: https://www.sjsu.edu/admissions/freshman/have-applied/index.php
 }{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/have-applied/index.php
-}{
 	title: Freshman Applicant | Admissions,
 	url: https://www.sjsu.edu/admissions/freshman/have-applied/freshman-applicant/index.php
 }{
 	title: Activate MySJSU | Admissions,
 	url: https://www.sjsu.edu/admissions/freshman/have-applied/activate-mysjsu/index.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/been-admitted/index.php
 }{
 	title: Been Admitted | Admissions,
 	url: https://www.sjsu.edu/admissions/freshman/been-admitted/index.php
@@ -980,12 +362,6 @@
 	title: Transfer Admissions | Admissions,
 	url: https://www.sjsu.edu/admissions/transfer/index.php
 }{
-	title: Transfer Admissions | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/index.php
-}{
-	title: Transfer Admission Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/admission-requirements/index.php
-}{
 	title: Transfer Admission Requirements | Admissions,
 	url: https://www.sjsu.edu/admissions/transfer/admission-requirements/index.php
 }{
@@ -994,9 +370,6 @@
 }{
 	title: Coursework Outside the U.S.  | Admissions,
 	url: https://www.sjsu.edu/admissions/transfer/admission-requirements/coursework-outside-the-u.s./index.php
-}{
-	title: Want to Apply | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/want-to-apply/index.php
 }{
 	title: Want to Apply | Admissions,
 	url: https://www.sjsu.edu/admissions/transfer/want-to-apply/index.php
@@ -1025,9 +398,6 @@
 	title: Have Applied | Admissions,
 	url: https://www.sjsu.edu/admissions/transfer/have-applied/index.php
 }{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/have-applied/index.php
-}{
 	title: Transfer Applicant  | Admissions,
 	url: https://www.sjsu.edu/admissions/transfer/have-applied/transfer-applicant/index.php
 }{
@@ -1039,9 +409,6 @@
 }{
 	title: Submitting Documents  | Admissions,
 	url: https://www.sjsu.edu/admissions/transfer/have-applied/submitting-documents/index.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/been-admitted/index.php
 }{
 	title: Been Admitted | Admissions,
 	url: https://www.sjsu.edu/admissions/transfer/been-admitted/index.php
@@ -1061,12 +428,6 @@
 	title: International Freshman | Admissions,
 	url: https://www.sjsu.edu/admissions/international-freshman/index.php
 }{
-	title: International Freshman | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/index.php
-}{
-	title: Admission Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/admission-requirements/index.php
-}{
 	title: Admission Requirements | Admissions,
 	url: https://www.sjsu.edu/admissions/international-freshman/admission-requirements/index.php
 }{
@@ -1075,9 +436,6 @@
 }{
 	title: English Proficiency Requirement | Admissions,
 	url: https://www.sjsu.edu/admissions/international-freshman/admission-requirements/english-proficiency.php
-}{
-	title: Want to Apply | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/want-to-apply/index.php
 }{
 	title: Want to Apply | Admissions,
 	url: https://www.sjsu.edu/admissions/international-freshman/want-to-apply/index.php
@@ -1094,9 +452,6 @@
 	title: Have Applied | Admissions,
 	url: https://www.sjsu.edu/admissions/international-freshman/have-applied/index.php
 }{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/have-applied/index.php
-}{
 	title: International Freshman Applicant | Admissions,
 	url: https://www.sjsu.edu/admissions/international-freshman/have-applied/international-freshman-applicant/index.php
 }{
@@ -1105,9 +460,6 @@
 }{
 	title: Submitting Documents  | Admissions,
 	url: https://www.sjsu.edu/admissions/international-freshman/have-applied/submitting-documents/index.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/been-admitted/index.php
 }{
 	title: Been Admitted | Admissions,
 	url: https://www.sjsu.edu/admissions/international-freshman/been-admitted/index.php
@@ -1130,12 +482,6 @@
 	title: International Transfer | Admissions,
 	url: https://www.sjsu.edu/admissions/international-transfer/index.php
 }{
-	title: International Transfer | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/index.php
-}{
-	title: Admission Requirements  | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/admission-requirements/index.php
-}{
 	title: Admission Requirements  | Admissions,
 	url: https://www.sjsu.edu/admissions/international-transfer/admission-requirements/index.php
 }{
@@ -1144,9 +490,6 @@
 }{
 	title: English Proficiency Requirement | Admissions,
 	url: https://www.sjsu.edu/admissions/international-transfer/admission-requirements/english-proficiency.php
-}{
-	title: Want to Apply  | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/want-to-apply/index.php
 }{
 	title: Want to Apply  | Admissions,
 	url: https://www.sjsu.edu/admissions/international-transfer/want-to-apply/index.php
@@ -1178,9 +521,6 @@
 	title: Have Applied | Admissions,
 	url: https://www.sjsu.edu/admissions/international-transfer/have-applied/index.php
 }{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/have-applied/index.php
-}{
 	title: International Transfer Applicant  | Admissions,
 	url: https://www.sjsu.edu/admissions/international-transfer/have-applied/international-transfer-applicant/index.php
 }{
@@ -1192,9 +532,6 @@
 }{
 	title: Submitting Documents  | Admissions,
 	url: https://www.sjsu.edu/admissions/international-transfer/have-applied/submitting-documents/index.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/been-admitted/index.php
 }{
 	title: Been Admitted | Admissions,
 	url: https://www.sjsu.edu/admissions/international-transfer/been-admitted/index.php
@@ -1220,14 +557,8 @@
 	title: Graduate Admissions | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/index.php
 }{
-	title: Graduate Admissions | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/index.php
-}{
 	title: Degree Programs | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/degree-programs.php
-}{
-	title: Admission Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/admission-requirements/index.php
 }{
 	title: Admission Requirements | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/admission-requirements/index.php
@@ -1244,9 +575,6 @@
 	title: Deadlines | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/deadlines/index.php
 }{
-	title: Deadlines | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/deadlines/index.php
-}{
 	title: Domestic Deadlines | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/deadlines/domestic-deadlines/index.php
 }{
@@ -1255,12 +583,6 @@
 }{
 	title: Want to Apply | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/index.php
-}{
-	title: Want to Apply | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/index.php
-}{
-	title: Domestic Steps to Admission | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/domestic-steps-to-admission/index.php
 }{
 	title: Domestic Steps to Admission | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/domestic-steps-to-admission/index.php
@@ -1271,14 +593,8 @@
 	title: International Steps to Admission | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/international-steps-to-admission/index.php
 }{
-	title: International Steps to Admission | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/international-steps-to-admission/index.php
-}{
 	title: 3-year Bachelors Degree | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/international-steps-to-admission/3-year-bachelors-degree/index.php
-}{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/have-applied/index.php
 }{
 	title: Have Applied | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/have-applied/index.php
@@ -1298,14 +614,8 @@
 	title: Been Admitted | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/been-admitted/index.php
 }{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/been-admitted/index.php
-}{
 	title: Domestic Steps to Enrollment | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/been-admitted/domestic-steps-to-enrollment.php
-}{
-	title: International Steps to Enrollment | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/been-admitted/international-steps-to-enrollment/index.php
 }{
 	title: International Steps to Enrollment | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/been-admitted/international-steps-to-enrollment/index.php
@@ -1324,9 +634,6 @@
 }{
 	title: Mandatory Intent to Enroll | Admissions,
 	url: https://www.sjsu.edu/admissions/graduate/been-admitted/mandatoryintenttoenroll.php
-}{
-	title: Residency | Admissions,
-	url: https://www.sjsu.edu/admissions/residency/index.php
 }{
 	title: Residency | Admissions,
 	url: https://www.sjsu.edu/admissions/residency/index.php
@@ -1352,12 +659,6 @@
 	title: Impaction  | Admissions,
 	url: https://www.sjsu.edu/admissions/impaction/index.php
 }{
-	title: Impaction  | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/index.php
-}{
-	title: Freshmen Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/index.php
-}{
 	title: Freshmen Impaction Results | Admissions,
 	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/index.php
 }{
@@ -1375,9 +676,6 @@
 }{
 	title: EI for College of Engineering Programs - Freshmen | Admissions,
 	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/ei-college-programs.php
-}{
-	title: Freshman Impaction Archive | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/index.php
 }{
 	title: Freshman Impaction Archive | Admissions,
 	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/index.php
@@ -1419,9 +717,6 @@
 	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/index.php
 }{
 	title: Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/index.php
-}{
-	title: Transfer Impaction Results | Admissions,
 	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/2025-fall.php
 }{
 	title: Transfer Impaction Results | Admissions,
@@ -1444,9 +739,6 @@
 }{
 	title: Transfer Impaction Results | Admissions,
 	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/2022-spring.php
-}{
-	title: Transfer Impaction Archive | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/index.php
 }{
 	title: Transfer Impaction Archive | Admissions,
 	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/index.php
@@ -1489,1503 +781,6 @@
 }{
 	title: Fall 2012 Impaction Results by Major | Admissions,
 	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2012-fall.php
-}{
-	title: Programs with Supplemental Criteria | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/program-supplemental-criteria/index.php
-}{
-	title: Programs with Supplemental Criteria | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/program-supplemental-criteria/index.php
-}{
-	title: Transfer Impaction Criteria - Associate Degree for Transfer(ADT) | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/program-supplemental-criteria/program-impaction-adt.php
-}{
-	title: San José State University,
-	url: https://www.sjsu.edu/
-}{
-	title: Visit,
-	url: https://www.sjsu.edu/visit/index.php
-}{
-	title: Admissions,
-	url: https://www.sjsu.edu/admissions/index.php
-}{
-	title: Give to SJSU: Helping A Student Starts With You | Give to SJSU,
-	url: https://www.sjsu.edu/giving/
-}{
-	title: Visit,
-	url: https://www.sjsu.edu/visit/index.php
-}{
-	title: Campus Tours | Student Outreach and Recruitment,
-	url: https://www.sjsu.edu/soar/campus-tours/index.php
-}{
-	title: Visit,
-	url: https://www.sjsu.edu/visit/index.php#downtown
-}{
-	title: SJSU Loves SJ: Connecting Our Communities,
-	url: https://www.sjsu.edu/sjsulovessj/
-}{
-	title: Academics,
-	url: https://www.sjsu.edu/academics/index.php
-}{
-	title: Colleges and Departments | Academics,
-	url: https://www.sjsu.edu/academics/colleges-and-departments.php
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: Class Schedule | Class Schedules,
-	url: https://www.sjsu.edu/classes/index.php
-}{
-	title: Admissions,
-	url: https://www.sjsu.edu/admissions/index.php
-}{
-	title: Tuition and Fees,
-	url: https://www.sjsu.edu/tuition-and-fees/index.php
-}{
-	title: Housing,
-	url: https://www.sjsu.edu/housing-options/index.php
-}{
-	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
-	url: https://www.sjsu.edu/professional/
-}{
-	title: International Recruitment - San Jose State University,
-	url: https://www.sjsu.edu/global/
-}{
-	title: Parent and Family Programs,
-	url: https://www.sjsu.edu/parent-and-family-programs/index.php
-}{
-	title: Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/index.php
-}{
-	title: Health and Wellness | Campus Life,
-	url: https://www.sjsu.edu/campus-life/health-and-wellness.php
-}{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/
-}{
-	title: Events | Campus Life,
-	url: https://www.sjsu.edu/campus-life/events.php
-}{
-	title: Experience Campus | Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/experience-campus/index.php
-}{
-	title: Traditions | Campus Life,
-	url: https://www.sjsu.edu/campus-life/traditions.php
-}{
-	title: Student Alumni Connection | Campus Life,
-	url: https://www.sjsu.edu/campus-life/sac.php
-}{
-	title: Research and Innovation | About,
-	url: https://www.sjsu.edu/about/research/
-}{
-	title: Office of Research,
-	url: https://www.sjsu.edu/research/
-}{
-	title: Office of Innovation & Corporate Partnerships | Office of Innovation,
-	url: https://www.sjsu.edu/innovation/
-}{
-	title: SJSU Research Foundation | Research Foundation,
-	url: https://www.sjsu.edu/researchfoundation/
-}{
-	title: Student-Faculty Collaborations | About,
-	url: https://www.sjsu.edu/about/research/student-faculty-collaborations.php
-}{
-	title: Become a Research Partner | About,
-	url: https://www.sjsu.edu/about/research/become-a-research-partner.php
-}{
-	title: Campus Centers and Institutes | Office of Research,
-	url: https://www.sjsu.edu/research/about/cci/index.php
-}{
-	title: About SJSU | About,
-	url: https://www.sjsu.edu/about/index.php
-}{
-	title: Administration and Leadership | About,
-	url: https://www.sjsu.edu/about/administration-and-leadership.php
-}{
-	title: Facts and Accomplishments,
-	url: https://www.sjsu.edu/facts-and-accomplishments/index.php
-}{
-	title: Partnerships | About,
-	url: https://www.sjsu.edu/about/partnerships.php
-}{
-	title: Transformation 2030,
-	url: https://www.sjsu.edu/strategicplan/
-}{
-	title: Transformation Defined | SJSU — Transformation Defined,
-	url: https://www.sjsu.edu/transform/
-}{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/index.php?utm_source=sjsumainmenu&utm_medium=web&utm_campaign=sjsuonline-navmenu-traffic
-}{
-	title: Alumni Association,
-	url: https://www.sjsu.edu/alumni/index.php
-}{
-	title: Give to SJSU: Helping A Student Starts With You | Give to SJSU,
-	url: https://www.sjsu.edu/giving/
-}{
-	title: SJSU Search,
-	url: https://www.sjsu.edu/search/index.html
-}{
-	title: San José State University,
-	url: https://www.sjsu.edu/index.php
-}{
-	title: Visit,
-	url: https://www.sjsu.edu/visit/index.php
-}{
-	title: Campus Tours | Student Outreach and Recruitment,
-	url: https://www.sjsu.edu/soar/campus-tours/index.php
-}{
-	title: San Jose State University,
-	url: https://www.sjsu.edu/map
-}{
-	title: Parking Services,
-	url: https://www.sjsu.edu/parking/
-}{
-	title: Silicon Valley | Visit,
-	url: https://www.sjsu.edu/visit/silicon-valley.php
-}{
-	title: SJSU Loves SJ: Connecting Our Communities,
-	url: https://www.sjsu.edu/sjsulovessj/
-}{
-	title: Academics,
-	url: https://www.sjsu.edu/academics/index.php
-}{
-	title: Colleges and Departments | Academics,
-	url: https://www.sjsu.edu/academics/colleges-and-departments.php
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: Class Schedule | Class Schedules,
-	url: https://www.sjsu.edu/classes/index.php
-}{
-	title: Admissions,
-	url: https://www.sjsu.edu/admissions/index.php
-}{
-	title: Tuition and Fees,
-	url: https://www.sjsu.edu/tuition-and-fees/index.php
-}{
-	title: Housing,
-	url: https://www.sjsu.edu/housing-options/index.php
-}{
-	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
-	url: https://www.sjsu.edu/professional/
-}{
-	title: International Recruitment - San Jose State University,
-	url: https://www.sjsu.edu/global/
-}{
-	title: Parent and Family Programs,
-	url: https://www.sjsu.edu/parent-and-family-programs/index.php
-}{
-	title: Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/index.php
-}{
-	title: Health and Wellness | Campus Life,
-	url: https://www.sjsu.edu/campus-life/health-and-wellness.php
-}{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/
-}{
-	title: Events | Campus Life,
-	url: https://www.sjsu.edu/campus-life/events.php
-}{
-	title: Experience Campus | Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/experience-campus/index.php
-}{
-	title: Traditions | Campus Life,
-	url: https://www.sjsu.edu/campus-life/traditions.php
-}{
-	title: Student Alumni Connection | Campus Life,
-	url: https://www.sjsu.edu/campus-life/sac.php
-}{
-	title: Research and Innovation | About,
-	url: https://www.sjsu.edu/about/research/
-}{
-	title: Office of Research,
-	url: https://www.sjsu.edu/research/
-}{
-	title: Office of Innovation & Corporate Partnerships | Office of Innovation,
-	url: https://www.sjsu.edu/innovation/
-}{
-	title: SJSU Research Foundation | Research Foundation,
-	url: https://www.sjsu.edu/researchfoundation/
-}{
-	title: Student-Faculty Collaborations | About,
-	url: https://www.sjsu.edu/about/research/student-faculty-collaborations.php
-}{
-	title: Become a Research Partner | About,
-	url: https://www.sjsu.edu/about/research/become-a-research-partner.php
-}{
-	title: Campus Centers and Institutes | Office of Research,
-	url: https://www.sjsu.edu/research/about/cci/index.php
-}{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/index.php?utm_source=sjsumainmenu-mobile&utm_medium=web&utm_campaign=sjsuonline-navmenu-traffic
-}{
-	title: About SJSU | About,
-	url: https://www.sjsu.edu/about/index.php
-}{
-	title: Administration and Leadership | About,
-	url: https://www.sjsu.edu/about/administration-and-leadership.php
-}{
-	title: Facts and Accomplishments,
-	url: https://www.sjsu.edu/facts-and-accomplishments/index.php
-}{
-	title: Partnerships | About,
-	url: https://www.sjsu.edu/about/partnerships.php
-}{
-	title: Transformation 2030,
-	url: https://www.sjsu.edu/strategicplan/
-}{
-	title: Transformation Defined | SJSU — Transformation Defined,
-	url: https://www.sjsu.edu/transform/
-}{
-	title: About SJSU | About,
-	url: https://www.sjsu.edu/about/
-}{
-	title: Sammy App | Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/sammy-app.php
-}{
-	title: Facts and Accomplishments,
-	url: https://www.sjsu.edu/facts-and-accomplishments/
-}{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/
-}{
-	title: Cover - Fall 2025 - SJSU Magazine,
-	url: https://www.sjsu.edu/sjsumagazine
-}{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/index.php
-}{
-	title: Accessibility at SJSU,
-	url: https://www.sjsu.edu/accessibility/index.php
-}{
-	title: Accreditation | Academic Innovation and Institutional Effectiveness,
-	url: https://www.sjsu.edu/aiie/accreditation/index.php
-}{
-	title: Office for Title IX and Equal Opportunity,
-	url: https://www.sjsu.edu/titleixeo/index.php
-}{
-	title: Diversity,
-	url: https://www.sjsu.edu/diversity/index.php
-}{
-	title: Muwekma Ohlone SJSU Area Land Acknowledgement | Diversity,
-	url: https://www.sjsu.edu/diversity/land-acknowledgement/
-}{
-	title: Privacy Notice,
-	url: https://www.sjsu.edu/privacy/
-}{
-	title: Lucas College and Graduate School of Business,
-	url: https://www.sjsu.edu/cob/index.php
-}{
-	title: Connie L. Lurie College of Education,
-	url: https://www.sjsu.edu/education/index.php
-}{
-	title: Charles W. Davidson College of Engineering,
-	url: https://www.sjsu.edu/engineering/index.php
-}{
-	title: College of Graduate Studies,
-	url: https://www.sjsu.edu/cgs/index.php
-}{
-	title: College of Health and Human Sciences,
-	url: https://www.sjsu.edu/chhs/index.php
-}{
-	title: College of Information, Data and Society,
-	url: https://www.sjsu.edu/information-data-society/index.php
-}{
-	title: College of Humanities and the Arts,
-	url: https://www.sjsu.edu/humanitiesandarts/index.php
-}{
-	title: College of Science,
-	url: https://www.sjsu.edu/science/index.php
-}{
-	title: College of Social Sciences,
-	url: https://www.sjsu.edu/socialsciences/index.php
-}{
-	title: A to Z Site Index,
-	url: https://www.sjsu.edu/siteindex
-}{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/
-}{
-	title: Clery Act Compliance,
-	url: https://www.sjsu.edu/clery/
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: University Personnel,
-	url: https://www.sjsu.edu/up/index.php
-}{
-	title: Freedom of Speech | Office of the President,
-	url: https://www.sjsu.edu/president/priorities-and-initiatives/free-speech/index.php
-}{
-	title: Well-being @ SJSU,
-	url: https://www.sjsu.edu/wellbeing/index.php
-}{
-	title: Doing Business with SJSU | About,
-	url: https://www.sjsu.edu/about/doing-business-with-sjsu.php
-}{
-	title: Emergency Information,
-	url: https://www.sjsu.edu/emergency
-}{
-	title: Make A Report | Office for Title IX and Equal Opportunity,
-	url: https://www.sjsu.edu/titleixeo/make-a-report/index.php
-}{
-	title: Campus Tours | Student Outreach and Recruitment,
-	url: https://www.sjsu.edu/soar/campus-tours/index.php
-}{
-	title: Visit,
-	url: https://www.sjsu.edu/visit/index.php#downtown
-}{
-	title: SJSU Loves SJ: Connecting Our Communities,
-	url: https://www.sjsu.edu/sjsulovessj/
-}{
-	title: Academics,
-	url: https://www.sjsu.edu/academics/index.php
-}{
-	title: Colleges and Departments | Academics,
-	url: https://www.sjsu.edu/academics/colleges-and-departments.php
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: Class Schedule | Class Schedules,
-	url: https://www.sjsu.edu/classes/index.php
-}{
-	title: Tuition and Fees,
-	url: https://www.sjsu.edu/tuition-and-fees/index.php
-}{
-	title: Housing,
-	url: https://www.sjsu.edu/housing-options/index.php
-}{
-	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
-	url: https://www.sjsu.edu/professional/index.php
-}{
-	title: International Recruitment - San Jose State University,
-	url: https://www.sjsu.edu/global/index.php
-}{
-	title: Parent and Family Programs,
-	url: https://www.sjsu.edu/parent-and-family-programs/index.php
-}{
-	title: Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/index.php
-}{
-	title: Health and Wellness | Campus Life,
-	url: https://www.sjsu.edu/campus-life/health-and-wellness.php
-}{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/
-}{
-	title: Events | Campus Life,
-	url: https://www.sjsu.edu/campus-life/events.php
-}{
-	title: Experience Campus | Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/experience-campus/index.php
-}{
-	title: Traditions | Campus Life,
-	url: https://www.sjsu.edu/campus-life/traditions.php
-}{
-	title: Student Alumni Connection | Campus Life,
-	url: https://www.sjsu.edu/campus-life/sac.php
-}{
-	title: Research and Innovation | About,
-	url: https://www.sjsu.edu/about/research/
-}{
-	title: Office of Research,
-	url: https://www.sjsu.edu/research/index.php
-}{
-	title: Office of Innovation & Corporate Partnerships | Office of Innovation,
-	url: https://www.sjsu.edu/innovation/index.php
-}{
-	title: SJSU Research Foundation | Research Foundation,
-	url: https://www.sjsu.edu/researchfoundation/index.php
-}{
-	title: Student-Faculty Collaborations | About,
-	url: https://www.sjsu.edu/about/research/student-faculty-collaborations.php
-}{
-	title: Become a Research Partner | About,
-	url: https://www.sjsu.edu/about/research/become-a-research-partner.php
-}{
-	title: Campus Centers and Institutes | Office of Research,
-	url: https://www.sjsu.edu/research/about/cci/index.php
-}{
-	title: About SJSU | About,
-	url: https://www.sjsu.edu/about/index.php
-}{
-	title: Administration and Leadership | About,
-	url: https://www.sjsu.edu/about/administration-and-leadership.php
-}{
-	title: Facts and Accomplishments,
-	url: https://www.sjsu.edu/facts-and-accomplishments/index.php
-}{
-	title: Partnerships | About,
-	url: https://www.sjsu.edu/about/partnerships.php
-}{
-	title: Transformation 2030,
-	url: https://www.sjsu.edu/strategicplan/index.php
-}{
-	title: Transformation Defined | SJSU — Transformation Defined,
-	url: https://www.sjsu.edu/transform/index.php
-}{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/index.php?utm_source=sjsumainmenu&utm_medium=web&utm_campaign=sjsuonline-navmenu-traffic
-}{
-	title: Alumni Association,
-	url: https://www.sjsu.edu/alumni/index.php
-}{
-	title: Give to SJSU: Helping A Student Starts With You | Give to SJSU,
-	url: https://www.sjsu.edu/giving/index.php
-}{
-	title: SJSU Search,
-	url: https://www.sjsu.edu/search/index.html
-}{
-	title: Campus Tours | Student Outreach and Recruitment,
-	url: https://www.sjsu.edu/soar/campus-tours/index.php
-}{
-	title: Campus Map | Main Campus,
-	url: https://www.sjsu.edu/map/index.php
-}{
-	title: Parking Services,
-	url: https://www.sjsu.edu/parking/index.php
-}{
-	title: Silicon Valley | Visit,
-	url: https://www.sjsu.edu/visit/silicon-valley.php
-}{
-	title: SJSU Loves SJ: Connecting Our Communities,
-	url: https://www.sjsu.edu/sjsulovessj/index.php
-}{
-	title: Academics,
-	url: https://www.sjsu.edu/academics/index.php
-}{
-	title: Colleges and Departments | Academics,
-	url: https://www.sjsu.edu/academics/colleges-and-departments.php
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: Class Schedule | Class Schedules,
-	url: https://www.sjsu.edu/classes/index.php
-}{
-	title: Tuition and Fees,
-	url: https://www.sjsu.edu/tuition-and-fees/index.php
-}{
-	title: Housing,
-	url: https://www.sjsu.edu/housing-options/index.php
-}{
-	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
-	url: https://www.sjsu.edu/professional/index.php
-}{
-	title: International Recruitment - San Jose State University,
-	url: https://www.sjsu.edu/global/index.php
-}{
-	title: Parent and Family Programs,
-	url: https://www.sjsu.edu/parent-and-family-programs/index.php
-}{
-	title: Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/index.php
-}{
-	title: Health and Wellness | Campus Life,
-	url: https://www.sjsu.edu/campus-life/health-and-wellness.php
-}{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/index.php
-}{
-	title: Events | Campus Life,
-	url: https://www.sjsu.edu/campus-life/events.php
-}{
-	title: Experience Campus | Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/experience-campus/index.php
-}{
-	title: Traditions | Campus Life,
-	url: https://www.sjsu.edu/campus-life/traditions.php
-}{
-	title: Student Alumni Connection | Campus Life,
-	url: https://www.sjsu.edu/campus-life/sac.php
-}{
-	title: Research and Innovation | About,
-	url: https://www.sjsu.edu/about/research/
-}{
-	title: Office of Research,
-	url: https://www.sjsu.edu/research/index.php
-}{
-	title: Office of Innovation & Corporate Partnerships | Office of Innovation,
-	url: https://www.sjsu.edu/innovation/index.php
-}{
-	title: SJSU Research Foundation | Research Foundation,
-	url: https://www.sjsu.edu/researchfoundation/index.php
-}{
-	title: Student-Faculty Collaborations | About,
-	url: https://www.sjsu.edu/about/research/student-faculty-collaborations.php
-}{
-	title: Become a Research Partner | About,
-	url: https://www.sjsu.edu/about/research/become-a-research-partner.php
-}{
-	title: Campus Centers and Institutes | Office of Research,
-	url: https://www.sjsu.edu/research/about/cci/index.php
-}{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/index.php?utm_source=sjsumainmenu-mobile&utm_medium=web&utm_campaign=sjsuonline-navmenu-traffic
-}{
-	title: About SJSU | About,
-	url: https://www.sjsu.edu/about/index.php
-}{
-	title: Administration and Leadership | About,
-	url: https://www.sjsu.edu/about/administration-and-leadership.php
-}{
-	title: Facts and Accomplishments,
-	url: https://www.sjsu.edu/facts-and-accomplishments/index.php
-}{
-	title: Partnerships | About,
-	url: https://www.sjsu.edu/about/partnerships.php
-}{
-	title: Transformation 2030,
-	url: https://www.sjsu.edu/strategicplan/
-}{
-	title: Transformation Defined | SJSU — Transformation Defined,
-	url: https://www.sjsu.edu/transform/
-}{
-	title: Parking Services,
-	url: https://www.sjsu.edu/parking/
-}{
-	title: South Campus Shuttle Service | Parking Services,
-	url: https://www.sjsu.edu/parking/help/shuttle.php
-}{
-	title: SJSU Loves SJ: Connecting Our Communities,
-	url: https://www.sjsu.edu/sjsulovessj/
-}{
-	title: SmartPass Overview | Associated Students,
-	url: https://www.sjsu.edu/as/departments/transportation-solutions/smartpass-overview/index.php
-}{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/index.php
-}{
-	title: Accessibility at SJSU,
-	url: https://www.sjsu.edu/accessibility/index.php
-}{
-	title: Accreditation | Academic Innovation and Institutional Effectiveness,
-	url: https://www.sjsu.edu/aiie/accreditation/index.php
-}{
-	title: Office for Title IX and Equal Opportunity,
-	url: https://www.sjsu.edu/titleixeo/index.php
-}{
-	title: Diversity,
-	url: https://www.sjsu.edu/diversity/index.php
-}{
-	title: Muwekma Ohlone SJSU Area Land Acknowledgement | Diversity,
-	url: https://www.sjsu.edu/diversity/land-acknowledgement/index.php
-}{
-	title: Privacy Notice,
-	url: https://www.sjsu.edu/privacy/index.php
-}{
-	title: Lucas College and Graduate School of Business,
-	url: https://www.sjsu.edu/cob/index.php
-}{
-	title: Connie L. Lurie College of Education,
-	url: https://www.sjsu.edu/education/index.php
-}{
-	title: Charles W. Davidson College of Engineering,
-	url: https://www.sjsu.edu/engineering/index.php
-}{
-	title: College of Graduate Studies,
-	url: https://www.sjsu.edu/cgs/index.php
-}{
-	title: College of Health and Human Sciences,
-	url: https://www.sjsu.edu/chhs/index.php
-}{
-	title: College of Information, Data and Society,
-	url: https://www.sjsu.edu/information-data-society/index.php
-}{
-	title: College of Humanities and the Arts,
-	url: https://www.sjsu.edu/humanitiesandarts/index.php
-}{
-	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
-	url: https://www.sjsu.edu/professional/index.php
-}{
-	title: College of Science,
-	url: https://www.sjsu.edu/science/index.php
-}{
-	title: College of Social Sciences,
-	url: https://www.sjsu.edu/socialsciences/index.php
-}{
-	title: A to Z Site Index,
-	url: https://www.sjsu.edu/siteindex
-}{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/
-}{
-	title: Clery Act Compliance,
-	url: https://www.sjsu.edu/clery/
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: University Personnel,
-	url: https://www.sjsu.edu/up/index.php
-}{
-	title: Freedom of Speech | Office of the President,
-	url: https://www.sjsu.edu/president/priorities-and-initiatives/free-speech/index.php
-}{
-	title: Well-being @ SJSU,
-	url: https://www.sjsu.edu/wellbeing/index.php
-}{
-	title: Doing Business with SJSU | About,
-	url: https://www.sjsu.edu/about/doing-business-with-sjsu.php
-}{
-	title: Emergency Information,
-	url: https://www.sjsu.edu/emergency/index.php
-}{
-	title: Make A Report | Office for Title IX and Equal Opportunity,
-	url: https://www.sjsu.edu/titleixeo/make-a-report/index.php
-}{
-	title: Campus Tours | Student Outreach and Recruitment,
-	url: https://www.sjsu.edu/soar/campus-tours/index.php
-}{
-	title: Visit,
-	url: https://www.sjsu.edu/visit/index.php#downtown
-}{
-	title: SJSU Loves SJ: Connecting Our Communities,
-	url: https://www.sjsu.edu/sjsulovessj/
-}{
-	title: Academics,
-	url: https://www.sjsu.edu/academics/index.php
-}{
-	title: Colleges and Departments | Academics,
-	url: https://www.sjsu.edu/academics/colleges-and-departments.php
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: Class Schedule | Class Schedules,
-	url: https://www.sjsu.edu/classes/index.php
-}{
-	title: Tuition and Fees,
-	url: https://www.sjsu.edu/tuition-and-fees/index.php
-}{
-	title: Housing,
-	url: https://www.sjsu.edu/housing-options/index.php
-}{
-	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
-	url: https://www.sjsu.edu/professional/index.php
-}{
-	title: International Recruitment - San Jose State University,
-	url: https://www.sjsu.edu/global/index.php
-}{
-	title: Parent and Family Programs,
-	url: https://www.sjsu.edu/parent-and-family-programs/index.php
-}{
-	title: Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/index.php
-}{
-	title: Health and Wellness | Campus Life,
-	url: https://www.sjsu.edu/campus-life/health-and-wellness.php
-}{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/
-}{
-	title: Events | Campus Life,
-	url: https://www.sjsu.edu/campus-life/events.php
-}{
-	title: Experience Campus | Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/experience-campus/index.php
-}{
-	title: Traditions | Campus Life,
-	url: https://www.sjsu.edu/campus-life/traditions.php
-}{
-	title: Student Alumni Connection | Campus Life,
-	url: https://www.sjsu.edu/campus-life/sac.php
-}{
-	title: Research and Innovation | About,
-	url: https://www.sjsu.edu/about/research/
-}{
-	title: Office of Research,
-	url: https://www.sjsu.edu/research/index.php
-}{
-	title: Office of Innovation & Corporate Partnerships | Office of Innovation,
-	url: https://www.sjsu.edu/innovation/index.php
-}{
-	title: SJSU Research Foundation | Research Foundation,
-	url: https://www.sjsu.edu/researchfoundation/index.php
-}{
-	title: Student-Faculty Collaborations | About,
-	url: https://www.sjsu.edu/about/research/student-faculty-collaborations.php
-}{
-	title: Become a Research Partner | About,
-	url: https://www.sjsu.edu/about/research/become-a-research-partner.php
-}{
-	title: Campus Centers and Institutes | Office of Research,
-	url: https://www.sjsu.edu/research/about/cci/index.php
-}{
-	title: About SJSU | About,
-	url: https://www.sjsu.edu/about/index.php
-}{
-	title: Administration and Leadership | About,
-	url: https://www.sjsu.edu/about/administration-and-leadership.php
-}{
-	title: Facts and Accomplishments,
-	url: https://www.sjsu.edu/facts-and-accomplishments/index.php
-}{
-	title: Partnerships | About,
-	url: https://www.sjsu.edu/about/partnerships.php
-}{
-	title: Transformation 2030,
-	url: https://www.sjsu.edu/strategicplan/index.php
-}{
-	title: Transformation Defined | SJSU — Transformation Defined,
-	url: https://www.sjsu.edu/transform/index.php
-}{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/index.php?utm_source=sjsumainmenu&utm_medium=web&utm_campaign=sjsuonline-navmenu-traffic
-}{
-	title: Alumni Association,
-	url: https://www.sjsu.edu/alumni/index.php
-}{
-	title: Give to SJSU: Helping A Student Starts With You | Give to SJSU,
-	url: https://www.sjsu.edu/giving/index.php
-}{
-	title: SJSU Search,
-	url: https://www.sjsu.edu/search/index.html
-}{
-	title: Campus Tours | Student Outreach and Recruitment,
-	url: https://www.sjsu.edu/soar/campus-tours/index.php
-}{
-	title: Campus Map | Main Campus,
-	url: https://www.sjsu.edu/map/index.php
-}{
-	title: Parking Services,
-	url: https://www.sjsu.edu/parking/index.php
-}{
-	title: Silicon Valley | Visit,
-	url: https://www.sjsu.edu/visit/silicon-valley.php
-}{
-	title: SJSU Loves SJ: Connecting Our Communities,
-	url: https://www.sjsu.edu/sjsulovessj/index.php
-}{
-	title: Academics,
-	url: https://www.sjsu.edu/academics/index.php
-}{
-	title: Colleges and Departments | Academics,
-	url: https://www.sjsu.edu/academics/colleges-and-departments.php
-}{
-	title: Calendars | Class Schedules,
-	url: https://www.sjsu.edu/classes/calendar/index.php
-}{
-	title: Class Schedule | Class Schedules,
-	url: https://www.sjsu.edu/classes/index.php
-}{
-	title: Tuition and Fees,
-	url: https://www.sjsu.edu/tuition-and-fees/index.php
-}{
-	title: Housing,
-	url: https://www.sjsu.edu/housing-options/index.php
-}{
-	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
-	url: https://www.sjsu.edu/professional/index.php
-}{
-	title: International Recruitment - San Jose State University,
-	url: https://www.sjsu.edu/global/index.php
-}{
-	title: Parent and Family Programs,
-	url: https://www.sjsu.edu/parent-and-family-programs/index.php
-}{
-	title: Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/index.php
-}{
-	title: Health and Wellness | Campus Life,
-	url: https://www.sjsu.edu/campus-life/health-and-wellness.php
-}{
-	title: SJSU Cares,
-	url: https://www.sjsu.edu/sjsucares/index.php
-}{
-	title: Events | Campus Life,
-	url: https://www.sjsu.edu/campus-life/events.php
-}{
-	title: Experience Campus | Student Affairs,
-	url: https://www.sjsu.edu/studentaffairs/experience-campus/index.php
-}{
-	title: Traditions | Campus Life,
-	url: https://www.sjsu.edu/campus-life/traditions.php
-}{
-	title: Student Alumni Connection | Campus Life,
-	url: https://www.sjsu.edu/campus-life/sac.php
-}{
-	title: Research and Innovation | About,
-	url: https://www.sjsu.edu/about/research/
-}{
-	title: Office of Research,
-	url: https://www.sjsu.edu/research/index.php
-}{
-	title: Office of Innovation & Corporate Partnerships | Office of Innovation,
-	url: https://www.sjsu.edu/innovation/index.php
-}{
-	title: SJSU Research Foundation | Research Foundation,
-	url: https://www.sjsu.edu/researchfoundation/index.php
-}{
-	title: Student-Faculty Collaborations | About,
-	url: https://www.sjsu.edu/about/research/student-faculty-collaborations.php
-}{
-	title: Become a Research Partner | About,
-	url: https://www.sjsu.edu/about/research/become-a-research-partner.php
-}{
-	title: Campus Centers and Institutes | Office of Research,
-	url: https://www.sjsu.edu/research/about/cci/index.php
-}{
-	title: SJSU Online,
-	url: https://www.sjsu.edu/online/index.php?utm_source=sjsumainmenu-mobile&utm_medium=web&utm_campaign=sjsuonline-navmenu-traffic
-}{
-	title: About SJSU | About,
-	url: https://www.sjsu.edu/about/index.php
-}{
-	title: Administration and Leadership | About,
-	url: https://www.sjsu.edu/about/administration-and-leadership.php
-}{
-	title: Facts and Accomplishments,
-	url: https://www.sjsu.edu/facts-and-accomplishments/index.php
-}{
-	title: Partnerships | About,
-	url: https://www.sjsu.edu/about/partnerships.php
-}{
-	title: Transformation 2030,
-	url: https://www.sjsu.edu/strategicplan/
-}{
-	title: Transformation Defined | SJSU — Transformation Defined,
-	url: https://www.sjsu.edu/transform/
-}{
-	title: Office of the Provost,
-	url: https://www.sjsu.edu/provost/index.php
-}{
-	title: Office of the Provost,
-	url: https://www.sjsu.edu/provost/index.php
-}{
-	title: Why SJSU? | Admissions,
-	url: https://www.sjsu.edu/admissions/why-sjsu.php
-}{
-	title: Freshman Admissions | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/index.php
-}{
-	title: Freshman Admissions | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/index.php
-}{
-	title: Admissions Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/admissions-requirements/index.php
-}{
-	title: Admissions Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/admissions-requirements/index.php
-}{
-	title: CSU Eligibility Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/admissions-requirements/csu-eligibility-requirements/index.php
-}{
-	title: Coursework Outside the U.S. | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/admissions-requirements/coursework-outside-u.s./index.php
-}{
-	title: Want to Apply | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/index.php
-}{
-	title: Want to Apply | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/index.php
-}{
-	title: Apply to SJSU  | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/apply-to-sjsu/index.php
-}{
-	title: Freshman Steps to Admission | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/freshman-steps-to-admission/index.php
-}{
-	title: Success Programs | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/index.php
-}{
-	title: Success Programs | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/index.php
-}{
-	title: Dual Enrollment | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/index.php
-}{
-	title: Dual Enrollment | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/index.php
-}{
-	title: Step To College (STC) | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/step-to-college-homepage/index.php
-}{
-	title: Step To College (STC) | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/step-to-college-homepage/index.php
-}{
-	title: Step To College (STC) on Campus  | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/step-to-college-homepage/step-to-college-on-campus.php
-}{
-	title: Step to College (STC) on Campus Google Form  | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/step-to-college-homepage/step-to-college-on-campus-google-form.php
-}{
-	title: Step to College (STC) Partnerships | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/step-to-college-homepage/step-to-college-partnerships.php
-}{
-	title: Step to College (STC) Partnerships Google Form  | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/step-to-college-homepage/step-to-college-partnerships-google-form.php
-}{
-	title: Unitrack Partnerships | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/unitrack-homepage/index.php
-}{
-	title: Unitrack Partnerships | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/unitrack-homepage/index.php
-}{
-	title: Unitrack Partnerships | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/unitrack-homepage/unitrack-partnerships.php
-}{
-	title: How to Request a Unitrack Partnership | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/unitrack-homepage/how-to-request-a-partnership.php
-}{
-	title: Unitrack Partnerships Google Form | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/unitrack-homepage/unitrack-partnership-google-form.php
-}{
-	title: Dual Enrollment FAQs | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/want-to-apply/success-programs/dual-enrollment/faq.php
-}{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/have-applied/index.php
-}{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/have-applied/index.php
-}{
-	title: Freshman Applicant | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/have-applied/freshman-applicant/index.php
-}{
-	title: Activate MySJSU | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/have-applied/activate-mysjsu/index.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/been-admitted/index.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/been-admitted/index.php
-}{
-	title: Freshman Steps to Enrollment  | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/been-admitted/freshman-steps-to-enrollment/index.php
-}{
-	title: Freshman Intent to Enroll | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/been-admitted/freshman-intent-to-enroll/index.php
-}{
-	title: Register for Classes | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/been-admitted/register-for-classes/index.php
-}{
-	title: Freshman Test Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/been-admitted/freshman-test-requirements/index.php
-}{
-	title: Early Start | Admissions,
-	url: https://www.sjsu.edu/admissions/freshman/been-admitted/early-start/index.php
-}{
-	title: Transfer Admissions | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/index.php
-}{
-	title: Transfer Admissions | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/index.php
-}{
-	title: Transfer Admission Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/admission-requirements/index.php
-}{
-	title: Transfer Admission Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/admission-requirements/index.php
-}{
-	title: CSU Eligibility  | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/admission-requirements/csu-eligibility/index.php
-}{
-	title: Coursework Outside the U.S.  | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/admission-requirements/coursework-outside-the-u.s./index.php
-}{
-	title: Want to Apply | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/want-to-apply/index.php
-}{
-	title: Want to Apply | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/want-to-apply/index.php
-}{
-	title: Apply to SJSU | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/want-to-apply/apply-to-sjsu/index.php
-}{
-	title: Transfer Steps to Admission | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/want-to-apply/transfer-steps-to-admission/index.php
-}{
-	title: Supplemental Application | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/want-to-apply/supplemental-application/index.php
-}{
-	title: Associate Degree | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/want-to-apply/associate-degree/index.php
-}{
-	title: Returning Student | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/want-to-apply/former-student/index.php
-}{
-	title: Success Programs | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/want-to-apply/success-programs/index.php
-}{
-	title: Spring Admission | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/want-to-apply/spring-admission/index.php
-}{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/have-applied/index.php
-}{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/have-applied/index.php
-}{
-	title: Transfer Applicant  | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/have-applied/transfer-applicant/index.php
-}{
-	title: Activate MySJSU | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/have-applied/activate-mysjsu/index.php
-}{
-	title: Writing Skills Test | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/have-applied/writing-skills-test/index.php
-}{
-	title: Submitting Documents  | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/have-applied/submitting-documents/index.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/been-admitted/index.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/been-admitted/index.php
-}{
-	title: Transfer Steps to Enrollment | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/been-admitted/transfer-steps-to-enrollment/index.php
-}{
-	title: Transfer Intent to Enroll | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/been-admitted/transfer-intent-to-enroll/index.php
-}{
-	title: Register for Classes | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/been-admitted/register-for-classes/index.php
-}{
-	title: Transfer Test Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/transfer/been-admitted/transfer-test-requirements/index.php
-}{
-	title: International Freshman | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/index.php
-}{
-	title: International Freshman | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/index.php
-}{
-	title: Admission Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/admission-requirements/index.php
-}{
-	title: Admission Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/admission-requirements/index.php
-}{
-	title: CSU Eligibility Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/admission-requirements/csu-eligibility-requirements/index.php
-}{
-	title: English Proficiency Requirement | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/admission-requirements/english-proficiency.php
-}{
-	title: Want to Apply | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/want-to-apply/index.php
-}{
-	title: Want to Apply | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/want-to-apply/index.php
-}{
-	title: International Freshman Steps to Admission  | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/want-to-apply/international-freshman-steps-to-admission/index.php
-}{
-	title: International Support Programs | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/want-to-apply/international-support-programs/index.php
-}{
-	title: Documents Required | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/want-to-apply/documents-required/index.php
-}{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/have-applied/index.php
-}{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/have-applied/index.php
-}{
-	title: International Freshman Applicant | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/have-applied/international-freshman-applicant/index.php
-}{
-	title: Activate MySJSU | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/have-applied/activate-mysjsu/index.php
-}{
-	title: Submitting Documents  | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/have-applied/submitting-documents/index.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/been-admitted/index.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/been-admitted/index.php
-}{
-	title: International Freshman Steps to Enrollment  | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/been-admitted/international-freshman-steps-to-enrollment/index.php
-}{
-	title: Instructions for Transferring an I-20 | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/been-admitted/instructions-for-transferring-i20/index.php
-}{
-	title: International Freshman Intent to Enroll | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/been-admitted/international-freshman-intent-to-enroll/index.php
-}{
-	title: Register for Classes | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/been-admitted/register-for-classes/index.php
-}{
-	title: International Freshman Test Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/international-freshman/been-admitted/international-freshman-test-requirements/index.php
-}{
-	title: International Transfer | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/index.php
-}{
-	title: International Transfer | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/index.php
-}{
-	title: Admission Requirements  | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/admission-requirements/index.php
-}{
-	title: Admission Requirements  | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/admission-requirements/index.php
-}{
-	title: CSU Eligibility Requirements  | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/admission-requirements/csu-eligibility-requirements/index.php
-}{
-	title: English Proficiency Requirement | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/admission-requirements/english-proficiency.php
-}{
-	title: Want to Apply  | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/want-to-apply/index.php
-}{
-	title: Want to Apply  | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/want-to-apply/index.php
-}{
-	title: Apply to SJSU | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/want-to-apply/apply-to-sjsu/index.php
-}{
-	title: International Transfer Steps to Admission | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/want-to-apply/international-transfer-steps-to-admission/index.php
-}{
-	title: Supplemental Application | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/want-to-apply/supplemental-application/index.php
-}{
-	title: Associate Degree | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/want-to-apply/associate-degree/index.php
-}{
-	title: International Support Programs | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/want-to-apply/international-support-programs/index.php
-}{
-	title: Documents Required | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/want-to-apply/documents-required/index.php
-}{
-	title: Former Student | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/want-to-apply/former-student/index.php
-}{
-	title: Spring Admission | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/want-to-apply/spring-admission/index.php
-}{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/have-applied/index.php
-}{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/have-applied/index.php
-}{
-	title: International Transfer Applicant  | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/have-applied/international-transfer-applicant/index.php
-}{
-	title: Activate MySJSU | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/have-applied/activate-mysjsu/index.php
-}{
-	title: Writing Skills Test (WST)/Directed Self Placement (DSP) | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/have-applied/writing-skills-test/index.php
-}{
-	title: Submitting Documents  | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/have-applied/submitting-documents/index.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/been-admitted/index.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/been-admitted/index.php
-}{
-	title: International Transfer Steps to Enrollment | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/been-admitted/international-transfer-steps-to-enrollment/index.php
-}{
-	title: Instructions for Transferring an I-20 | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/been-admitted/instructions-for-transferring-i20/index.php
-}{
-	title: International Transfer Intent to Enroll | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/been-admitted/international-transfer-intent-to-enroll/index.php
-}{
-	title: Register for Classes | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/been-admitted/register-for-classes/index.php
-}{
-	title: International Transfer Test Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/international-transfer/been-admitted/international-transfer-test-requirements/index.php
-}{
-	title: Deadlines | Admissions,
-	url: https://www.sjsu.edu/admissions/deadlines/index.php
-}{
-	title: Graduate Admissions | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/index.php
-}{
-	title: Graduate Admissions | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/index.php
-}{
-	title: Degree Programs | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/degree-programs.php
-}{
-	title: Admission Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/admission-requirements/index.php
-}{
-	title: Admission Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/admission-requirements/index.php
-}{
-	title: SJSU Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/admission-requirements/sjsu-requirements/index.php
-}{
-	title: Degree Program Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/admission-requirements/degree-program-requirements/index.php
-}{
-	title: Test Requirements | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/admission-requirements/test-requirements/index.php
-}{
-	title: Deadlines | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/deadlines/index.php
-}{
-	title: Deadlines | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/deadlines/index.php
-}{
-	title: Domestic Deadlines | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/deadlines/domestic-deadlines/index.php
-}{
-	title: International Deadlines | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/deadlines/international-deadlines/index.php
-}{
-	title: Want to Apply | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/index.php
-}{
-	title: Want to Apply | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/index.php
-}{
-	title: Domestic Steps to Admission | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/domestic-steps-to-admission/index.php
-}{
-	title: Domestic Steps to Admission | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/domestic-steps-to-admission/index.php
-}{
-	title: Graduate California Residency | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/domestic-steps-to-admission/california-residency/index.php
-}{
-	title: International Steps to Admission | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/international-steps-to-admission/index.php
-}{
-	title: International Steps to Admission | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/international-steps-to-admission/index.php
-}{
-	title: 3-year Bachelors Degree | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/want-to-apply/international-steps-to-admission/3-year-bachelors-degree/index.php
-}{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/have-applied/index.php
-}{
-	title: Have Applied | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/have-applied/index.php
-}{
-	title: Activate MySJSU | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/have-applied/activate-mysjsu/index.php
-}{
-	title: Application Document Submitted | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/have-applied/application-document-submitted.php
-}{
-	title: Connect With Us | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/have-applied/connect/index.php
-}{
-	title: Departmental Documents Submitted | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/have-applied/statement-submission.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/been-admitted/index.php
-}{
-	title: Been Admitted | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/been-admitted/index.php
-}{
-	title: Domestic Steps to Enrollment | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/been-admitted/domestic-steps-to-enrollment.php
-}{
-	title: International Steps to Enrollment | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/been-admitted/international-steps-to-enrollment/index.php
-}{
-	title: International Steps to Enrollment | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/been-admitted/international-steps-to-enrollment/index.php
-}{
-	title: Transferring an I-20 | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/been-admitted/international-steps-to-enrollment/transferring-an-i-20/index.php
-}{
-	title: Changing Your Academic Level | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/been-admitted/international-steps-to-enrollment/changing-your-academic-level/index.php
-}{
-	title: Campus Resources | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/been-admitted/campus-resources.php
-}{
-	title: Graduate Admission Deferral Information | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/been-admitted/deferral-information.php
-}{
-	title: Mandatory Intent to Enroll | Admissions,
-	url: https://www.sjsu.edu/admissions/graduate/been-admitted/mandatoryintenttoenroll.php
-}{
-	title: Residency | Admissions,
-	url: https://www.sjsu.edu/admissions/residency/index.php
-}{
-	title: Residency | Admissions,
-	url: https://www.sjsu.edu/admissions/residency/index.php
-}{
-	title: AB 540 (CA Nonresident Tuition Exemption) | Admissions,
-	url: https://www.sjsu.edu/admissions/residency/ab540.php
-}{
-	title: Rules and Regulations For Establishing Residency | Admissions,
-	url: https://www.sjsu.edu/admissions/residency/rules-and-regulations.php
-}{
-	title: 10 Things You Need To Know About California Residency | Admissions,
-	url: https://www.sjsu.edu/admissions/residency/10-things-you-need-to-know-ca-residency.php
-}{
-	title: Residency FAQs | Admissions,
-	url: https://www.sjsu.edu/admissions/residency/faq.php
-}{
-	title: Document Submitted - Residency | Admissions,
-	url: https://www.sjsu.edu/admissions/residency/document-submitted.php
-}{
-	title: Required Financial Documents for International Students | Admissions,
-	url: https://www.sjsu.edu/admissions/internationalfinancialdocs.php
-}{
-	title: Impaction  | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/index.php
-}{
-	title: Impaction  | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/index.php
-}{
-	title: Freshmen Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/index.php
-}{
-	title: Freshmen Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/index.php
-}{
-	title: Freshmen Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/2025-fall.php
-}{
-	title: Freshmen Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/2024-fall.php
-}{
-	title: Freshmen Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/2023-fall.php
-}{
-	title: Freshmen Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/2022-fall.php
-}{
-	title: EI for College of Engineering Programs - Freshmen | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/ei-college-programs.php
-}{
-	title: Freshman Impaction Archive | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/index.php
-}{
-	title: Freshman Impaction Archive | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/index.php
-}{
-	title: Freshmen Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/2021-fall.php
-}{
-	title: Freshmen Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/2021-spring.php
-}{
-	title: Freshmen Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/2020-fall.php
-}{
-	title: Fall 2019 Freshman Impaction Results By Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/2019-fall.php
-}{
-	title: Fall 2018 Freshman Impaction Results By Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/2018.php
-}{
-	title: Fall 2017 Freshman Impaction Results By Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/2017.php
-}{
-	title: Fall 2016 Freshman Impaction Results By Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/2016.php
-}{
-	title: Fall 2015 Freshman Impaction Results By Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/2015.php
-}{
-	title: Fall 2014 Freshman Impaction Results By Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/2014.php
-}{
-	title: Fall 2013 Freshman Impaction Results By Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/2013.php
-}{
-	title: Fall 2012 Freshman Impaction Results By Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/freshmen-impaction-results/archives/2012.php
-}{
-	title: Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/index.php
-}{
-	title: Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/index.php
-}{
-	title: Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/2025-fall.php
-}{
-	title: Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/2024-fall.php
-}{
-	title: Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/2025-spring.php
-}{
-	title: Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/2024-spring.php
-}{
-	title: Fall 2023 Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/2023-fall.php
-}{
-	title: Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/2023-spring.php
-}{
-	title: Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/2022-fall.php
-}{
-	title: Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/2022-spring.php
-}{
-	title: Transfer Impaction Archive | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/index.php
-}{
-	title: Transfer Impaction Archive | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/index.php
-}{
-	title: Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2021-fall.php
-}{
-	title: Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2021-spring.php
-}{
-	title: Transfer Impaction Results | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2020-fall.php
-}{
-	title: Spring 2020 Impaction Results by Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2020-spring.php
-}{
-	title: Fall 2019 Impaction Results by Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2019-fall.php
-}{
-	title: Spring 2019 Impaction Results by Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2019-spring.php
-}{
-	title: Fall 2018 Impaction Results by Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2018-fall.php
-}{
-	title: Fall 2017 Impaction Results by Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2017-fall.php
-}{
-	title: Fall 2016 Impaction Results by Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2016-fall.php
-}{
-	title: Fall 2015 Impaction Results by Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2015-fall.php
-}{
-	title: Fall 2014 Impaction Results by Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2014-fall.php
-}{
-	title: Fall 2013 Impaction Results by Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2013-fall.php
-}{
-	title: Fall 2012 Impaction Results by Major | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/transfer-impaction-results/archives/2012-fall.php
-}{
-	title: Programs with Supplemental Criteria | Admissions,
-	url: https://www.sjsu.edu/admissions/impaction/program-supplemental-criteria/index.php
 }{
 	title: Programs with Supplemental Criteria | Admissions,
 	url: https://www.sjsu.edu/admissions/impaction/program-supplemental-criteria/index.php
@@ -2995,4 +790,709 @@
 }{
 	title: Transfer Impaction Criteria - Program Specific Coursework | Admissions,
 	url: https://www.sjsu.edu/admissions/impaction/program-supplemental-criteria/program-impaction-transfer-coursework.php
+}{
+	title: Supplemental Application for Transfer | Admissions,
+	url: https://www.sjsu.edu/admissions/impaction/supplemental-application-transfers/index.php
+}{
+	title: Supplemental Application Help Guide | Admissions,
+	url: https://www.sjsu.edu/admissions/impaction/supplemental-application-transfers/supplemental-app-help-guide.php
+}{
+	title: Admission Status  | Admissions,
+	url: https://www.sjsu.edu/admissions/admission-status/index.php
+}{
+	title: Undergraduate Application Status  | Admissions,
+	url: https://www.sjsu.edu/admissions/admission-status/undergraduate-application-status.php
+}{
+	title: Graduate Application Status | Admissions,
+	url: https://www.sjsu.edu/admissions/admission-status/graduate-application-status/index.php
+}{
+	title: Denial Appeal Process | Admissions,
+	url: https://www.sjsu.edu/admissions/admission-status/graduate-application-status/denial-appeal-process/index.php
+}{
+	title: Graduate Appeal Submission | Admissions,
+	url: https://www.sjsu.edu/admissions/admission-status/graduate-application-status/denial-appeal-process/graduate-appeal-submission.php
+}{
+	title: Undergraduate Admission Appeals | Admissions,
+	url: https://www.sjsu.edu/admissions/admission-status/undergraduate-appeals/index.php
+}{
+	title: Appeal Submitted | Admissions,
+	url: https://www.sjsu.edu/admissions/admission-status/undergraduate-appeals/document-submitted.php
+}{
+	title: Appeal Submitted | Admissions,
+	url: https://www.sjsu.edu/admissions/admission-status/undergraduate-appeals/appeal-submitted.php
+}{
+	title: Residency Resources | Admissions,
+	url: https://www.sjsu.edu/admissions/admission-status/residency-resources.php
+}{
+	title: About Us | Admissions,
+	url: https://www.sjsu.edu/admissions/about-us/index.php
+}{
+	title: Assessment Reports | Admissions,
+	url: https://www.sjsu.edu/admissions/about-us/assessment-reports.php
+}{
+	title: University Learning Outcomes | Admissions,
+	url: https://www.sjsu.edu/admissions/about-us/learning-outcomes.php
+}{
+	title: Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/
+}{
+	title: BS in Nursing | The Valley Foundation School of Nursing,
+	url: https://www.sjsu.edu/nursing/programs/bsn.php
+}{
+	title: San Jose State University: Open University,
+	url: https://www.sjsu.edu/professional/openuniversity/index.php
+}{
+	title: Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/index.php
+}{
+	title: SJSU Clery and Safety Reports | Clery Act Compliance,
+	url: https://www.sjsu.edu/clery/sjsu-clery-and-safety-reports/index.php
+}{
+	title: Frequently Asked Questions | Give to SJSU,
+	url: https://www.sjsu.edu/giving/faq/index.php
+}{
+	title: How to Give | Give to SJSU,
+	url: https://www.sjsu.edu/giving/how-to-give/index.php
+}{
+	title: Make a Stock Gift | Give to SJSU,
+	url: https://www.sjsu.edu/giving/how-to-give/make-a-stock-gift/index.php
+}{
+	title: Areas to Support | Give to SJSU,
+	url: https://www.sjsu.edu/giving/areas-to-support/index.php
+}{
+	title: Naming Opportunities | Give to SJSU,
+	url: https://www.sjsu.edu/giving/areas-to-support/naming-opportunities/index.php
+}{
+	title: Student Success  | Give to SJSU,
+	url: https://www.sjsu.edu/giving/areas-to-support/student-success/index.php
+}{
+	title: Spartan Athletics | Give to SJSU,
+	url: https://www.sjsu.edu/giving/areas-to-support/spartan-athletics/index.php
+}{
+	title: Lucas College and Graduate School of Business | Give to SJSU,
+	url: https://www.sjsu.edu/giving/areas-to-support/lucas-college-and-graduate-school-of-business/index.php
+}{
+	title: College of Science | Give to SJSU,
+	url: https://www.sjsu.edu/giving/areas-to-support/college-of-science/index.php
+}{
+	title: College of Social Sciences | Give to SJSU,
+	url: https://www.sjsu.edu/giving/areas-to-support/college-of-social-sciences/index.php
+}{
+	title: Charles W. Davidson College of Engineering | Give to SJSU,
+	url: https://www.sjsu.edu/giving/areas-to-support/college-of-engineering/index.php
+}{
+	title: College of Information, Data and Society | Give to SJSU,
+	url: https://www.sjsu.edu/giving/areas-to-support/college-of-information-data-and-society/index.php
+}{
+	title: 1857 Circle | Give to SJSU,
+	url: https://www.sjsu.edu/giving/areas-to-support/1857-circle/index.php
+}{
+	title: College of Humanities and the Arts | Give to SJSU,
+	url: https://www.sjsu.edu/giving/areas-to-support/college-of-humanities-and-the-arts/index.php
+}{
+	title: Impact of Giving | Give to SJSU,
+	url: https://www.sjsu.edu/giving/impact-of-giving/index.php
+}{
+	title: SJSU Tower Foundation | Give to SJSU,
+	url: https://www.sjsu.edu/giving/tower-foundation/index.php
+}{
+	title: Give Now | Give to SJSU,
+	url: https://www.sjsu.edu/giving/give-now/index.php
+}{
+	title: Alumni Association,
+	url: https://www.sjsu.edu/alumni/
+}{
+	title: Services | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/services/index.php
+}{
+	title: Campus Tours | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/services/campus-tours.php
+}{
+	title: Video Tours | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/campus-tours/video-tours.php
+}{
+	title: Preparing for Your Visit | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/campus-tours/preparing-for-your-visit.php
+}{
+	title: Events and Workshops | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/events/index.php
+}{
+	title: Virtual Workshops | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/events/workshops.php
+}{
+	title: College Fairs | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/events/college-fairs.php
+}{
+	title: Receptions | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/events/receptions.php
+}{
+	title: Admissions | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/admissions/index.php
+}{
+	title: Promise Programs | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/promiseprograms/index.php
+}{
+	title: Spartan East Side Promise | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/promiseprograms/spartan-east-side-promise.php
+}{
+	title: Guaranteed Pathway | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/promiseprograms/guaranteed-pathway.php
+}{
+	title: Transfer Success Pathway Program | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/promiseprograms/transfer-success-pathway-program.php
+}{
+	title: Community Partnerships | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/promiseprograms/community.php
+}{
+	title: About | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/about/index.php
+}{
+	title: Contact Us | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/about/contact-us.php
+}{
+	title: Learning Outcomes | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/about/new-learning-outcomes.php
+}{
+	title: Assessment | Student Outreach and Recruitment,
+	url: https://www.sjsu.edu/soar/about/assessment.php
+}{
+	title: Weeks of Welcome | SJSU Loves SJ: Connecting Our Communities,
+	url: https://www.sjsu.edu/sjsulovessj/weeks-of-welcome.php
+}{
+	title:  Explore San José Together | SJSU Loves SJ: Connecting Our Communities,
+	url: https://www.sjsu.edu/sjsulovessj/explore-san-jose/index.php
+}{
+	title: Video Playlist | SJSU Loves SJ: Connecting Our Communities,
+	url: https://www.sjsu.edu/sjsulovessj/explore-san-jose/video-playlist.php
+}{
+	title: Welcome to the 408 | SJSU Loves SJ: Connecting Our Communities,
+	url: https://www.sjsu.edu/sjsulovessj/408/index.php
+}{
+	title: Spartan Pride Points | Facts and Accomplishments,
+	url: https://www.sjsu.edu/facts-and-accomplishments/pride-points.php
+}{
+	title: Weeks of Welcome | Student Involvement,
+	url: https://www.sjsu.edu/getinvolved/campus-events/weeks-of-welcome.php
+}{
+	title: Community and Government Relations,
+	url: https://www.sjsu.edu/cgr/index.php
+}{
+	title: Undergraduate Advising and Success,
+	url: https://www.sjsu.edu/advising/index.php
+}{
+	title: Office of the Registrar,
+	url: https://www.sjsu.edu/registrar/
+}{
+	title: Accreditation | Academic Innovation and Institutional Effectiveness,
+	url: https://www.sjsu.edu/aiie/accreditation/
+}{
+	title: Research and Innovation | Academics,
+	url: https://www.sjsu.edu/academics/research/index.php
+}{
+	title: Centers and Institutes | Academics,
+	url: https://www.sjsu.edu/academics/centers.php
+}{
+	title: Academics,
+	url: https://www.sjsu.edu/academics/
+}{
+	title: Accounting and Finance,
+	url: https://www.sjsu.edu/acctfin/index.php
+}{
+	title: School of Information Systems & Technology | School of Info Systems and Technology,
+	url: https://www.sjsu.edu/isystems/index.php
+}{
+	title: Marketing and Business Analytics,
+	url: https://www.sjsu.edu/mktba/index.php
+}{
+	title: Hospitality, Tourism and Event Management,
+	url: https://www.sjsu.edu/hspm/index.php
+}{
+	title: School of Management (SoM) | School of Management,
+	url: https://www.sjsu.edu/mgmt/index.php
+}{
+	title: School of Global Innovation and Leadership,
+	url: https://www.sjsu.edu/sgil/index.php
+}{
+	title: Lucas Graduate School of Business,
+	url: https://www.sjsu.edu/lucasgsb/index.php
+}{
+	title: Department of Child and Adolescent Development | Child and Adolescent Development,
+	url: https://www.sjsu.edu/chad/index.php
+}{
+	title: Communicative Disorders and Sciences Department | Communicative Disorders and Sciences,
+	url: https://www.sjsu.edu/cds/index.php
+}{
+	title: Department of Counselor Education,
+	url: https://www.sjsu.edu/counselored/
+}{
+	title: Department of Educational Leadership  | Educational Leadership,
+	url: https://www.sjsu.edu/edleadership/index.php
+}{
+	title: Teacher Education,
+	url: https://www.sjsu.edu/teachered/
+}{
+	title: Department of Special Education | Special Education,
+	url: https://www.sjsu.edu/specialed/index.php
+}{
+	title: Ed.D. Educational Leadership Program | Ed.D. Leadership Program,
+	url: https://www.sjsu.edu/edd/index.php
+}{
+	title: Aerospace Engineering,
+	url: https://www.sjsu.edu/ae/index.php
+}{
+	title: Aviation and Technology,
+	url: https://www.sjsu.edu/avtech/index.php
+}{
+	title: Biomedical Engineering,
+	url: https://www.sjsu.edu/bme/index.php
+}{
+	title: Chemical and Materials Engineering,
+	url: https://www.sjsu.edu/cme/index.php
+}{
+	title: Civil and Environmental Engineering,
+	url: https://www.sjsu.edu/cee/index.php
+}{
+	title: Computer Engineering Department | Computer Engineering,
+	url: https://www.sjsu.edu/cmpe/index.php
+}{
+	title: Electrical Engineering,
+	url: https://www.sjsu.edu/ee/index.php
+}{
+	title: Engineering Extended Studies,
+	url: https://www.sjsu.edu/ees/index.php
+}{
+	title: Interdisciplinary Engineering,
+	url: https://www.sjsu.edu/ide/index.php
+}{
+	title: Industrial and Systems Engineering,
+	url: https://www.sjsu.edu/ise/index.php
+}{
+	title: Mechanical Engineering,
+	url: https://www.sjsu.edu/me/index.php
+}{
+	title: Aerospace Studies,
+	url: https://www.sjsu.edu/afrotc/index.php
+}{
+	title: Department of Audiology,
+	url: https://www.sjsu.edu/aud/index.php
+}{
+	title: Department of Public Health | Public Health and Recreation,
+	url: https://www.sjsu.edu/phr/index.php
+}{
+	title: Department of Kinesiology,
+	url: https://www.sjsu.edu/kinesiology/index.php
+}{
+	title: Department of Military Science,
+	url: https://www.sjsu.edu/armyrotc/index.php
+}{
+	title: The Valley Foundation School of Nursing,
+	url: https://www.sjsu.edu/nursing/index.php
+}{
+	title: Nutrition, Food Science, and Packaging,
+	url: https://www.sjsu.edu/nufspkg/index.php
+}{
+	title: Department of Occupational Therapy - Welcome | Department of Occupational Therapy,
+	url: https://www.sjsu.edu/occupationaltherapy/index.php
+}{
+	title: School of Social Work,
+	url: https://www.sjsu.edu/socialwork/index.php
+}{
+	title: Art and Art History,
+	url: https://www.sjsu.edu/art/index.php
+}{
+	title: Department of Design,
+	url: https://www.sjsu.edu/design/index.php
+}{
+	title: Department of English and Comparative Literature,
+	url: https://www.sjsu.edu/english/index.php
+}{
+	title: Department of Humanities,
+	url: https://www.sjsu.edu/hum/index.php
+}{
+	title: School of Journalism and Mass Communication | School of Journalism and Mass Communications,
+	url: https://www.sjsu.edu/jmc/
+}{
+	title: Linguistics and Language Development,
+	url: https://www.sjsu.edu/linguistics/index.php
+}{
+	title: Music | School of Music,
+	url: https://www.sjsu.edu/music/index.php
+}{
+	title: Philosophy Department,
+	url: https://www.sjsu.edu/philosophy/index.php
+}{
+	title: The Department of Film, Theatre, and Dance,
+	url: https://www.sjsu.edu/filmandtheatre/index.php
+}{
+	title: World Languages and Literatures,
+	url: https://www.sjsu.edu/wll/index.php
+}{
+	title: SJSU Professional Education: Upgrade Your Career, Upgrade Your Life,
+	url: https://www.sjsu.edu/extend/index.html
+}{
+	title: SJSU Career Development - Professional Programs,
+	url: https://www.sjsu.edu/workforce/index.html
+}{
+	title: Summer Session,
+	url: https://www.sjsu.edu/summer/index.html
+}{
+	title: IGateways Homepage,
+	url: https://www.sjsu.edu/igateways/index.php
+}{
+	title: International Student and Scholar Services,
+	url: https://www.sjsu.edu/isss/index.php
+}{
+	title: University Housing Services,
+	url: https://www.sjsu.edu/ihouse/index.html
+}{
+	title: San Jose State University - Study Abroad & Away,
+	url: https://www.sjsu.edu/studyabroad/index.php
+}{
+	title: Biological Sciences,
+	url: https://www.sjsu.edu/biology/index.php
+}{
+	title: Department of Chemistry | Chemistry Department,
+	url: https://www.sjsu.edu/chemistry/index.php
+}{
+	title: Department of Computer Science,
+	url: https://www.sjsu.edu/cs/index.php
+}{
+	title: Geology Department,
+	url: https://www.sjsu.edu/geology/index.php
+}{
+	title: Department of Mathematics and Statistics,
+	url: https://www.sjsu.edu/math/index.php
+}{
+	title: Department of Meteorology and Climate Science,
+	url: https://www.sjsu.edu/meteorology/index.php
+}{
+	title: Physics and Astronomy,
+	url: https://www.sjsu.edu/physics/index.php
+}{
+	title: Science Education Program,
+	url: https://www.sjsu.edu/scied/index.php
+}{
+	title: Department of African American Studies,
+	url: https://www.sjsu.edu/afam/index.php
+}{
+	title: Department of Anthropology,
+	url: https://www.sjsu.edu/anthropology/index.php
+}{
+	title: Chicana and Chicano Studies,
+	url: https://www.sjsu.edu/ccs/index.php
+}{
+	title: Communication Studies | Department of Communication Studies,
+	url: https://www.sjsu.edu/comm/index.php
+}{
+	title: Department of Economics,
+	url: https://www.sjsu.edu/economics/index.php
+}{
+	title: Department of History,
+	url: https://www.sjsu.edu/history/index.php
+}{
+	title: Department of Justice Studies,
+	url: https://www.sjsu.edu/justicestudies/index.php
+}{
+	title: Department of Political Science,
+	url: https://www.sjsu.edu/polisci/index.php
+}{
+	title: SJSU Psychology | Psychology,
+	url: https://www.sjsu.edu/psych/index.php
+}{
+	title: School of Planning, Policy and Environmental Studies,
+	url: https://www.sjsu.edu/plan-policy-envs/index.php
+}{
+	title: Sociology and Interdisciplinary Social Sciences,
+	url: https://www.sjsu.edu/siss/index.php
+}{
+	title: Class Schedule | Class Schedules,
+	url: https://www.sjsu.edu/classes/
+}{
+	title: Schedules | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/index.php
+}{
+	title: Spring 2026 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/spring-2026.php
+}{
+	title: Winter 2026 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/winter-2026.php
+}{
+	title: Fall 2025 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/fall-2025.php
+}{
+	title: Subject/Global Notes | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/subject-notes/index.php
+}{
+	title: Archive | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/subject-notes/archive/index.php
+}{
+	title: Fall 2024 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/subject-notes/archive/fall-2024.php
+}{
+	title: Spring 2025 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/subject-notes/archive/spring-2025.php
+}{
+	title: Fall 2025 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/subject-notes/archive/fall-2025.php
+}{
+	title: Spring 2024 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/subject-notes/archive/spring-2024.php
+}{
+	title: Fall 2023 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/subject-notes/archive/fall-2023.php
+}{
+	title: Spring 2023 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/subject-notes/archive/spring-2023.php
+}{
+	title: Fall 2022 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/subject-notes/archive/fall-2022.php
+}{
+	title: Spring 2022 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/subject-notes/archive/spring-2022.php
+}{
+	title: Fall 2021 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/subject-notes/archive/fall-2021.php
+}{
+	title: Spring 2021 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/subject-notes/archive/spring-2021.php
+}{
+	title: Fall 2020 Subject Notes | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/subject-notes/archive/fall-2020.php
+}{
+	title: Archive | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/index.php
+}{
+	title: Summer 2025 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/summer-2025.php
+}{
+	title: Spring 2025 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/spring-2025.php
+}{
+	title: Fall 2024 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/fall-2024.php
+}{
+	title: Summer 2024 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/summer-2024.php
+}{
+	title: Spring 2024 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/spring-2024.php
+}{
+	title: Winter 2024 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/winter-2024.php
+}{
+	title: Winter 2025 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/winter-2025.php
+}{
+	title: Fall 2023 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/fall-2023.php
+}{
+	title: Summer 2023 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/summer-2023.php
+}{
+	title: Spring 2023 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/spring-2023.php
+}{
+	title: Winter 2023 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/winter-2023.php
+}{
+	title: Fall 2022 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/fall-2022.php
+}{
+	title: Summer 2022 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/summer-2022.php
+}{
+	title: Spring 2022 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/spring-2022.php
+}{
+	title: Winter 2022 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/winter-2022.php
+}{
+	title: Fall 2021 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/fall-2021.php
+}{
+	title: Summer 2021 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/summer-2021.php
+}{
+	title: Spring 2021 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/spring-2021.php
+}{
+	title: Winter 2021 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/winter-2021.php
+}{
+	title: Fall 2020 | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/fall-2020.php
+}{
+	title: Summer 2020 Class Schedule | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/summer-2020.php
+}{
+	title: Winter 2020 Class Schedule | Class Schedules,
+	url: https://www.sjsu.edu/classes/schedules/archive/winter-2020.php
+}{
+	title: 2025-2026 | Class Schedules,
+	url: https://www.sjsu.edu/classes/calendar/2025-2026.php
+}{
+	title: 2026-2027 | Class Schedules,
+	url: https://www.sjsu.edu/classes/calendar/2026-2027.php
+}{
+	title: 2027-2028 | Class Schedules,
+	url: https://www.sjsu.edu/classes/calendar/2027-2028.php
+}{
+	title: Archive | Class Schedules,
+	url: https://www.sjsu.edu/classes/calendar/archive/index.php
+}{
+	title: 2024-2025 | Class Schedules,
+	url: https://www.sjsu.edu/classes/calendar/archive/2024-2025.php
+}{
+	title: 2023-2024 | Class Schedules,
+	url: https://www.sjsu.edu/classes/calendar/archive/2023-2024.php
+}{
+	title: 2022-2023 | Class Schedules,
+	url: https://www.sjsu.edu/classes/calendar/archive/2022-2023.php
+}{
+	title: 2021-2022 | Class Schedules,
+	url: https://www.sjsu.edu/classes/calendar/archive/2021-2022.php
+}{
+	title: 2020-2021 | Class Schedules,
+	url: https://www.sjsu.edu/classes/calendar/archive/2020-2021.php
+}{
+	title: 2019-2020 | Class Schedules,
+	url: https://www.sjsu.edu/classes/calendar/archive/2019-2020.php
+}{
+	title: Culminating Activities and Final Examination Period | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/index.php
+}{
+	title: Fall 2025 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/fall-2025.php
+}{
+	title: Spring 2026 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/spring-2026.php
+}{
+	title: Culminating Activities and Final Examinations Policy | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/policy.php
+}{
+	title: Archive | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/archive/index.php
+}{
+	title: Spring 2025 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/archive/spring-2025.php
+}{
+	title: Fall 2024 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/archive/fall-2024.php
+}{
+	title: Spring 2024 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/archive/spring-2024.php
+}{
+	title: Fall 2023 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/archive/fall-2023.php
+}{
+	title: Spring 2023 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/archive/spring-2023.php
+}{
+	title: Fall 2022 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/archive/fall-2022.php
+}{
+	title: Spring 2022 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/archive/spring-2022.php
+}{
+	title: Fall 2021 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/archive/fall-2021.php
+}{
+	title: Spring 2021 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/archive/spring-2021.php
+}{
+	title: Fall 2020 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/archive/fall-2020.php
+}{
+	title: Spring 2020 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/archive/spring-2020.php
+}{
+	title: Fall 2019 | Class Schedules,
+	url: https://www.sjsu.edu/classes/final-exam-schedule/archive/fall-2019.php
+}{
+	title: Register for Classes | Class Schedules,
+	url: https://www.sjsu.edu/classes/register/index.php
+}{
+	title: MyScheduler | Class Schedules,
+	url: https://www.sjsu.edu/classes/register/myscheduler.php
+}{
+	title: Symbols & Abbreviations | Class Schedules,
+	url: https://www.sjsu.edu/classes/symbols-abbreviations.php
+}{
+	title: Tuition, Fees, Payment, and Refunds | Class Schedules,
+	url: https://www.sjsu.edu/classes/tuition-fees-payment-refunds.php
+}{
+	title: Calendar | Office of the Registrar,
+	url: https://www.sjsu.edu/registrar/calendar/index.php
+}{
+	title: Commencement,
+	url: https://www.sjsu.edu/commencement/index.php
+}{
+	title: Payment Due Dates | Bursar's Office,
+	url: https://www.sjsu.edu/bursar/fees-due-dates/payment-due-dates/index.php
+}{
+	title: Announcements and Deadlines | Financial Aid and Scholarship Office,
+	url: https://www.sjsu.edu/faso/about/announcements-deadlines.php
+}{
+	title: University Housing Services,
+	url: https://www.sjsu.edu/housing/index.php
+}{
+	title: Sparta Camp (First-Time, First-Year Orientation) | New Student and Family Programs,
+	url: https://www.sjsu.edu/newspartans/frosh-orientation/index.php
+}{
+	title: Newly-Admitted Students | College of Graduate Studies,
+	url: https://www.sjsu.edu/cgs/current-students/newly-admitted-students.php
+}{
+	title: Transfer Orientation | New Student and Family Programs,
+	url: https://www.sjsu.edu/newspartans/transfer-orientation/index.php
+}{
+	title: Parent & Family Orientation | New Student and Family Programs,
+	url: https://www.sjsu.edu/newspartans/parents-and-families/orientation.php
+}{
+	title: Testing Office,
+	url: https://www.sjsu.edu/testing/index.php
+}{
+	title: Admissions,
+	url: https://www.sjsu.edu/admissions/
+}{
+	title: Bursar's Office,
+	url: https://www.sjsu.edu/bursar/
+}{
+	title: Academic Scheduling & Space Management | Office of the Provost,
+	url: https://www.sjsu.edu/academicscheduling/
+}{
+	title: Fall 2025 | Office of the Registrar,
+	url: https://www.sjsu.edu/registrar/calendar/fall-2025.php
+}{
+	title: Calendar,
+	url: https://www.sjsu.edu/winter/calendar.php
+}{
+	title: Spring 2026 | Office of the Registrar,
+	url: https://www.sjsu.edu/registrar/calendar/spring-2026.php
+}{
+	title: Student Petitions | Undergraduate Education,
+	url: https://www.sjsu.edu/ue/student-petitions/index.php#Enrollment
+}{
+	title: ,
+	url: https://www.sjsu.edu/provost/docs/2025-26%20Calendar%20revised%207-11-25.pdf
+}{
+	title: Calendar,
+	url: https://www.sjsu.edu/winter/calendar.php?utm_source=professional-ou-winter-direct
+}{
+	title: Financial Aid and Scholarship Office,
+	url: https://www.sjsu.edu/faso/index.php
+}{
+	title: Scholarships | Financial Aid and Scholarship Office,
+	url: https://www.sjsu.edu/faso/types-of-aid/scholarships/index.php
+}{
+	title: Grants | Financial Aid and Scholarship Office,
+	url: https://www.sjsu.edu/faso/types-of-aid/grants/index.php
+}{
+	title: Loans | Financial Aid and Scholarship Office,
+	url: https://www.sjsu.edu/faso/types-of-aid/loans/index.php
+}{
+	title: work-study | Financial Aid and Scholarship Office,
+	url: https://www.sjsu.edu/faso/types-of-aid/work-study/
+}{
+	title: University Housing Services,
+	url: https://www.sjsu.edu/ihouse/
 }
